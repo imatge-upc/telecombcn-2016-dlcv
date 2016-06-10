@@ -11,11 +11,8 @@ theme:
   description: "Summer Seminar ETSETB TelecomBCN, 4-8 July 2016" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <h>Deep Learning for Computer Vision Barcelona</h>
-
-     <p>Summer Seminar ETSETB TelecomBCN, 4-8 July 2016</p>
-  header_text_feature_image: upc_heading.jpg
+  header_text:
+  header_text_feature_image:
   footer_text:
 
   # Icons

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning for Computer Vision Barcelona
+title:
 permalink: /
 feature-img: "img/upc_heading.jpg"
 hide: true
@@ -8,7 +8,7 @@ hide: true
 
 # Deep Learning for Computer Vision Barcelona
 
-## Summer seminar UPC TelecomBCN (July 4-8, 2016)
+### Summer seminar UPC TelecomBCN (July 4-8, 2016)
 
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
 
