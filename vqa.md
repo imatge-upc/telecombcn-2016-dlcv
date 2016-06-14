@@ -14,8 +14,9 @@ hide: true
 * Malinowski, Mateusz, Marcus Rohrbach, and Mario Fritz. ["Ask your neurons: A neural-based approach to answering questions about images."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.html) ICCV 2015.
 * Xiong, Caiming, Stephen Merity, and Richard Socher. ["Dynamic Memory Networks for Visual and Textual Question Answering."](http://arxiv.org/abs/1603.01417) arXiv preprint arXiv:1603.01417 (2016).
 * Ma, Lin, Zhengdong Lu, and Hang Li. ["Learning to answer questions from image using convolutional neural network."](http://arxiv.org/abs/1506.00333) AAAI (2016).
-* * Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/) CVPR 2016.
+* Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/) CVPR 2016.
 * Tapaswi, Makarand, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, and Sanja Fidler. ["MovieQA: Understanding Stories in Movies through Question-Answering."](http://movieqa.cs.toronto.edu/home/) CVPR 2016
+* Kim, Jin-Hwa, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, and Byoung-Tak Zhang. ["Multimodal Residual Learning for Visual QA."](http://arxiv.org/abs/1606.01455) arXiv preprint arXiv:1606.01455 (2016).
 
 ## Online help
 

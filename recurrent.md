@@ -37,3 +37,5 @@ hide: true
 * Karpathy, Andrej, Justin Johnson, and Fei-Fei Li. ["Visualizing and understanding recurrent networks."](http://arxiv.org/abs/1506.02078) ICLR 2016.
 
 * Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. ["Pixel recurrent neural networks."](http://arxiv.org/abs/1601.06759) arXiv preprint arXiv:1601.06759 (2016).
+
+* Wang, Jiang, Yi Yang, Junhua Mao, Zhiheng Huang, Chang Huang, and Wei Xu. ["CNN-RNN: A Unified Framework for Multi-label Image Classification."](http://arxiv.org/abs/1604.04573) CVPR 2016.

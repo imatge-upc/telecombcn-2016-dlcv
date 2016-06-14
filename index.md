@@ -149,8 +149,9 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 
 ## Contact
 
-If you have any general doubt about the course which may be of interest for other researchers, please use the [public issues section](https://github.com/imatge-upc/dlcv-2016/issues) on this github repo. Alternatively, drop us an e-mail at <mailto:xavier.giro@upc.edu> and <mailto:elisa.sayrol@upc.edu>.
+This term we will be using [Piazza](https://piazza.com) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
 
+Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 
 ## Related courses
 
