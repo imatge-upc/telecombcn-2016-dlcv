@@ -5,8 +5,6 @@ permalink: /augmentation
 hide: true
 ---
 
-# Data augmentation
-
 ## Instructor
 
 | ![Eva Mohedano][EvaMohedano-photo]  |

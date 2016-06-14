@@ -5,8 +5,6 @@ permalink: /offtheshelf
 hide: true
 ---
 
-# Off-the-shelf features
-
 ## Instructor
 
 | ![Eva Mohedano][EvaMohedano-photo]  |

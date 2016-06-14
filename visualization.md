@@ -5,8 +5,6 @@ permalink: /visualization
 hide: true
 ---
 
-# Visualization
-
 ## Instructor
 
 | ![AmaiaSalvador][AmaiaSalvador-photo]  |

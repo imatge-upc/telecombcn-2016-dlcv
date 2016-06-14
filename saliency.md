@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Saliency
+title: Saliency Prediction
 permalink: /saliency
 hide: true
 ---
-
-# Saliency prediction
 
 ## Instructor
 

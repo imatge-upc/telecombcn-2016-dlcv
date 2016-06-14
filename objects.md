@@ -5,8 +5,6 @@ permalink: /objects
 hide: true
 ---
 
-# Object Detection
-
 ## Instructor
 
 | ![AmaiaSalvador][AmaiaSalvador-photo]  |

@@ -5,8 +5,6 @@ permalink: /video
 hide: true
 ---
 
-# Video Processing
-
 ## Instructor
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  

@@ -5,9 +5,6 @@ permalink: /layers
 hide: true
 ---
 
-# Layer types in convolutional networks
-
-
 ## Instructor
 
 |  ![Elisa Sayrol][ElisaSayrol-photo]  |

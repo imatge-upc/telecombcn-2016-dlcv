@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Adversarial Networks
-permalink: /adversial
+permalink: /adversarial
 hide: true
 ---
-
-# Adversarial networks
 
 ## Instructor
 

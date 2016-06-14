@@ -5,8 +5,6 @@ permalink: /training
 hide: true
 ---
 
-# Training Convolutional Neural Networks
-
 ## Instructor
 
 |  ![Elisa Sayrol][ElisaSayrol-photo]  |

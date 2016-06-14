@@ -5,8 +5,6 @@ permalink: /transfer
 hide: true
 ---
 
-# Transfer learning and domain adaptation
-
 ## Instructor
 
 | ![Kevin McGuinness][KevinMcGuinness-photo]  |

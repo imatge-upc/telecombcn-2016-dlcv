@@ -4,7 +4,6 @@ title: Annotation
 permalink: /annotation
 hide: true
 ---
-# Annotation
 
 ## Instructor
 

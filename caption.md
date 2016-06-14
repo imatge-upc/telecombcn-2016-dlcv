@@ -5,8 +5,6 @@ permalink: /caption
 hide: true
 ---
 
-# Visual captioning
-
 ## Instructor
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  

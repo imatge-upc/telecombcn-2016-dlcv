@@ -5,8 +5,6 @@ permalink: /faces
 hide: true
 ---
 
-# Face detection and recognition
-
 ## Instructor
 
 |  ![Elisa Sayrol][ElisaSayrol-photo]  |

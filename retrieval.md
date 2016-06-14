@@ -5,8 +5,6 @@ permalink: /retrieval
 hide: true
 ---
 
-# Object Retrieval
-
 ## Instructor
 
 | ![AmaiaSalvador][AmaiaSalvador-photo]  |

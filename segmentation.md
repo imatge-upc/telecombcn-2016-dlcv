@@ -5,8 +5,6 @@ permalink: /segmentation
 hide: true
 ---
 
-# Image segmentation
-
 ## Instructor
 
 | ![AmaiaSalvador][AmaiaSalvador-photo]  |

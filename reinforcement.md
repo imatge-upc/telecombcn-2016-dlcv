@@ -5,8 +5,6 @@ permalink: /reinforcement
 hide: true
 ---
 
-# Reinforcement learning
-
 ## Instructor
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  

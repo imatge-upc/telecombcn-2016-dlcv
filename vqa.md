@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VQA
+title: Visual Question Answering
 permalink: /vqa
 hide: true
 ---

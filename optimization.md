@@ -5,8 +5,6 @@ permalink: /optimization
 hide: true
 ---
 
-# Optimization
-
 ## Instructor
 
 | ![Kevin McGuinness][KevinMcGuinness-photo]  |

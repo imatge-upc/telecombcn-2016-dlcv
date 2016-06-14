@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Classification
+title: Introduction to Classification
 permalink: /classification
 hide: true
 ---
-
-# Introduction to classification
 
 ## Instructor
 

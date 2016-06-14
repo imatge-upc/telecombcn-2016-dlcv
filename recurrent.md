@@ -5,8 +5,6 @@ permalink: /recurrent
 hide: true
 ---
 
-# Recurrent neural networks
-
 ## Instructor
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  

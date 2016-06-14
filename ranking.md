@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Ranking
-permalink: /metric
+permalink: /ranking
 hide: true
 ---
-
-# Ranking
 
 ## Instructor
 

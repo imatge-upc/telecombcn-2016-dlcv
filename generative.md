@@ -5,8 +5,6 @@ permalink: /generative
 hide: true
 ---
 
-# Generative models
-
 ## Instructor
 
 | ![Kevin McGuinness][KevinMcGuinness-photo]  |
