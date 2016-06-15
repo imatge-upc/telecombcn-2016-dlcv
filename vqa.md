@@ -17,6 +17,7 @@ hide: true
 * Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/) CVPR 2016.
 * Tapaswi, Makarand, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, and Sanja Fidler. ["MovieQA: Understanding Stories in Movies through Question-Answering."](http://movieqa.cs.toronto.edu/home/) CVPR 2016
 * Kim, Jin-Hwa, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, and Byoung-Tak Zhang. ["Multimodal Residual Learning for Visual QA."](http://arxiv.org/abs/1606.01455) arXiv preprint arXiv:1606.01455 (2016).
+* Mostafazadeh, Nasrin, Ishan Misra, Jacob Devlin, Margaret Mitchell, Xiaodong He, and Lucy Vanderwende. ["Generating Natural Questions About an Image."](http://arxiv.org/abs/1603.06059v3) arXiv preprint arXiv:1603.06059 (2016).
 
 ## Online help
 
