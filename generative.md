@@ -34,3 +34,5 @@ hide: true
 * Larsen, Anders Boesen Lindbo, Søren Kaae Sønderby, and Ole Winther. ["Autoencoding beyond pixels using a learned similarity metric."](http://arxiv.org/abs/1512.09300) arXiv preprint arXiv:1512.09300 (2015).
 
 * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell and Alexei A. Efros. [Context Encoders: Feature Learning by Inpainting.](http://www.cs.berkeley.edu/~pathak/context_encoder/)  In CVPR 2016.
+
+* ANDREJ KARPATHY, PIETER ABBEEL, GREG BROCKMAN, PETER CHEN, VICKI CHEUNG, ROCKY DUAN, IAN GOODFELLOW, DURK KINGMA, JONATHAN HO, REIN HOUTHOOFT, TIM SALIMANS, JOHN SCHULMAN, ILYA SUTSKEVER, AND WOJCIECH ZAREMBA, ["Generative models"](https://openai.com/blog/generative-models/). OpenAI 2016.
