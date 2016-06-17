@@ -35,6 +35,6 @@ hide: true
 
 * Mnih, Volodymyr, Nicolas Heess, and Alex Graves. ["Recurrent models of visual attention."](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention) Advances in Neural Information Processing Systems. 2014.
 
-* Huang, Xun, Chengyao Shen, Xavier Boix, and Qi Zhao. ["SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Huang_SALICON_Reducing_the_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 262-270. 2015.
+* Huang, Xun, Chengyao Shen, Xavier Boix, and Qi Zhao. ["SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Huang_SALICON_Reducing_the_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 262-270. 2015. [[Caffe](https://github.com/CLT29/OpenSALICON)]
 
 * Kruthiventi, Srinivas SS, Kumar Ayush, and R. Venkatesh Babu. ["DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations."](http://arxiv.org/abs/1510.02927) In Proceedings of the IEEE International Conference on Computer Vision. 2016.
