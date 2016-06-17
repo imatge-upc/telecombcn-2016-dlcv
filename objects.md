@@ -41,3 +41,6 @@ hide: true
 * Caicedo, Juan C., and Svetlana Lazebnik. ["Active object localization with deep reinforcement learning."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Caicedo_Active_Object_Localization_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 2488-2496. 2015. [[Slides by Miriam Bellver](http://www.slideshare.net/xavigiro/active-object-localization-with-deep-reinforcement-learning)]
 
 * Pinheiro, Pedro O., Ronan Collobert, and Piotr Dollar. ["Learning to segment object candidates."](http://arxiv.org/abs/1604.02135) In Advances in Neural Information Processing Systems, pp. 1981-1989. 2015. [[code](https://github.com/ghostcow/deepmask)]
+
+* Xiaogang Wang, ["Deep Learning in Object Recognition, Detection, and Segmentation"](http://www.nowpublishers.com/article/Details/SIG-071). Trends in Signal Processing. Volume 9, Issues 1-2. May 2016.
+
