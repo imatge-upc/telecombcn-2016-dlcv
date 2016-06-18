@@ -36,3 +36,5 @@ hide: true
 * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell and Alexei A. Efros. [Context Encoders: Feature Learning by Inpainting.](http://www.cs.berkeley.edu/~pathak/context_encoder/)  In CVPR 2016.
 
 * ANDREJ KARPATHY, PIETER ABBEEL, GREG BROCKMAN, PETER CHEN, VICKI CHEUNG, ROCKY DUAN, IAN GOODFELLOW, DURK KINGMA, JONATHAN HO, REIN HOUTHOOFT, TIM SALIMANS, JOHN SCHULMAN, ILYA SUTSKEVER, AND WOJCIECH ZAREMBA, ["Generative models"](https://openai.com/blog/generative-models/). OpenAI 2016.
+
+* Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) arXiv preprint arXiv:1605.05396 (2016).
