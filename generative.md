@@ -38,3 +38,5 @@ hide: true
 * ANDREJ KARPATHY, PIETER ABBEEL, GREG BROCKMAN, PETER CHEN, VICKI CHEUNG, ROCKY DUAN, IAN GOODFELLOW, DURK KINGMA, JONATHAN HO, REIN HOUTHOOFT, TIM SALIMANS, JOHN SCHULMAN, ILYA SUTSKEVER, AND WOJCIECH ZAREMBA, ["Generative models"](https://openai.com/blog/generative-models/). OpenAI 2016.
 
 * Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) arXiv preprint arXiv:1605.05396 (2016).
+
+* Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu, ["Conditional Image Generation with PixelCNN Decoders"](http://arxiv.org/abs/1606.05328), arXiv preprint arXiv:1606.05328 (2016).
