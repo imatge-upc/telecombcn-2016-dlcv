@@ -79,12 +79,14 @@ Deep learning technologies are at the core of the current revolution in artifici
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
 | 3:00-3:20  | Welcome XG            | [Augmentation] EM  | [Off-the-shelf] AS  | [Optimization] KM  | [Reinforcement] XG       |
 | 3:20-3:40  | [Classification] EM   | [Visualization] AS | [Ranking] EM        | [Adversarial] ES   | [Objects] AS             |
-| 3:40-4:00  | [Layers] ES           | [Transfer] KM      | [Retrieval] AS      | [Segmentation] AS  | [Videos] XG              |
-| 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |      
-| 5:00-5:20  | [Training] ES         | [Annotation] AS    | [Faces] ES          | [Caption] XG       |                          |
-| 5:20-5:40  | [ImageNet] XG         | [Computation] JT   | [Saliency] ES       | [Generative] KM    | Project expo EM          |
-| 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Memory] KM         | [Question] XG      |                          |
-| 6:00-7:00  | Project               | Project            | Project             | Project            | Closing ES               |
+| 3:40-4:00  | [Layers] ES           | [Transfer] KM      | [Retrieval] AS      | [GAN] KM           | [Videos] XG              |
+| 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         | 
+| 4:00-5:00  | Project               | Project            | Project             | Project            | Project expo             | 
+| 5:00-5:20  | [Training] ES         | [Annotation] AS    | [Faces] ES          | [Caption] XG       | Test review ES           |
+| 5:20-5:40  | [ImageNet] XG         | [Generative] KM    | [Saliency] ES       | [Segmentation] AS  | Feedback  ALL            |
+| 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Memory] KM         | [Question] XG      | Closing XG               |
+| 6:00-7:00  | Project               | Project            | Project             | Project            | Project expo             |
+| 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
 
 [Welcome]: _posts/welcome.md
 [Classification]: classification
