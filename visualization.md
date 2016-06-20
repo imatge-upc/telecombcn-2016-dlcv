@@ -21,6 +21,10 @@ hide: true
 
 * Yosinski, Jason, Jeff Clune, Anh Nguyen, Thomas Fuchs, and Hod Lipson. ["Understanding neural networks through deep visualization."](http://yosinski.com/deepvis) International Conference on Machine Learning, ICML (2015).
 
+* [Accepted papers](http://icmlviz.github.io/papers/) at the ICML Visualization Workshop 2016.
+
+* Zintgraf, Luisa M., Taco S. Cohen, and Max Welling. ["A new method to visualize deep neural networks."](http://arxiv.org/abs/1603.02518) arXiv preprint arXiv:1603.02518 (2016).
+
 * Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba. [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/">Learning Deep Features for Discriminative Localization), CVPR 2016. ([Slides by Marc Bolaños](https://docs.google.com/presentation/d/1CItqjtAYa_OKVLs5BqqCzM8dEbCwkwit4Ooem_WJpY0/edit#slide=id.p))
 
 ### Demos
