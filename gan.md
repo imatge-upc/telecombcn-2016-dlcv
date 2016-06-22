@@ -33,12 +33,7 @@ hide: true
 
 * Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) arXiv preprint arXiv:1605.05396 (2016).
 
-* Eric Jian, ["Generative Adversarial Nets in TensorFlow"](---
-layout: page
-title: Generative Models
-permalink: /generative
-hide: true
----
+* Eric Jian, ["Generative Adversarial Nets in TensorFlow"](http://evjang.com/articles/genadv1)
 
 ## Instructor
 
