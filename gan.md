@@ -25,6 +25,8 @@ hide: true
 
 ## Related work
 
+* Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. ["Generative adversarial nets."](http://papers.nips.cc/paper/5423-generative-adversarial) In Advances in Neural Information Processing Systems, pp. 2672-2680. 2014.
+
 * Radford, Alec, Luke Metz, and Soumith Chintala. ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](http://arxiv.org/abs/1511.06434) International Conference on Learning Representations (2016). [[software](https://github.com/Newmu/dcgan_code)] [[software Theano](https://github.com/mikesj-public/dcgan-autoencoder)] [[software TensorFlow](https://github.com/carpedm20/DCGAN-tensorflow)] [[demo](http://carpedm20.github.io/faces/)] [[related blogpost](https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)]
 
 * Eric Jian, ["Understanding and Implementing Deepmind's DRAW Model"] (http://evjang.com/articles/draw)
