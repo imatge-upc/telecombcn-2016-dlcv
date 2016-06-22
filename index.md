@@ -117,6 +117,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [Optimization]: optimization
 [Adversarial]: adversarial
 [Segmentation]: segmentation
+[GAN]: gan
 
 [Caption]: caption
 [Generative]: generative
