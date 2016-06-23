@@ -5,6 +5,13 @@ permalink: /vqa
 hide: true
 ---
 
+| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Xavier Giro-i-Nieto (XG)](XavierGiro-web) |
+
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
+[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+
 ## Related work at UPC
 * Bachelor thesis by Issey Masuda (ETSETB 2016).
 
