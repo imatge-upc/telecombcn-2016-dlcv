@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Off-the-shelf Features
-permalink: /offtheshelf
+title: Finetuning
+permalink: /finetuning
 hide: true
 ---
 
 ## Instructor
 
-| ![Eva Mohedano][EvaMohedano-photo]  |
-|:-:|
-|  [Eva Mohedano (EM)](EvaMohedano-web)     |
+| ![AmaiaSalvador][AmaiaSalvador-photo]  |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+ | [Amaia Salvador (AS)][AmaiaSalvador-web] |
 
-[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
-[EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
+[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
+
+[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
 ## Slides
 
