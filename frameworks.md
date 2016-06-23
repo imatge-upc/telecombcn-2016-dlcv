@@ -15,6 +15,9 @@ hide: true
 
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
+## Keywords
+
+Caffe, theano, TensorFlow, Keras, torch, MxNet
 
 ## Slides
 
