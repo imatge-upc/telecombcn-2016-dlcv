@@ -14,6 +14,9 @@ hide: true
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [KevinMcGuinness-photo]: img/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
 
+## Keywords
+
+discriminator, generator, generative models, adversarial training
 ## Slides
 
 (to be added)
