@@ -7,12 +7,13 @@ hide: true
 
 ## Instructor
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  
+| ![AmaiaSalvador][AmaiaSalvador-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)](XavierGiro-web) |
+ | [Amaia Salvador (AS)][AmaiaSalvador-web] |
 
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
-[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
+
+[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
 
 ## Slides
@@ -35,7 +36,6 @@ hide: true
 * Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R., & Fei-Fei, L. (2014, June). [Large-scale video classification with convolutional neural networks](http://cs.stanford.edu/people/karpathy/deepvideo/). In Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on (pp. 1725-1732). IEEE.
 
 * Tran, Du, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, and Manohar Paluri. ["Learning spatiotemporal features with 3D convolutional networks."](http://vlg.cs.dartmouth.edu/c3d/) In Proceedings of the IEEE International Conference on Computer Vision, pp. 4489-4497. 2015. [video-caffe](https://github.com/chuckcho/video-caffe)
-
 
 * Srivastava, Nitish, Elman Mansimov, and Ruslan Salakhutdinov. ["Unsupervised learning of video representations using LSTMs."](http://arxiv.org/abs/1502.04681) arXiv preprint arXiv:1502.04681 (2015).
 
