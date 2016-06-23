@@ -7,14 +7,16 @@ hide: true
 
 ## Instructor
 
-| ![AmaiaSalvador][AmaiaSalvador-photo]  |
-|:-:|:-:|:-:|:-:|:-:|:-:|
- | [Amaia Salvador (AS)][AmaiaSalvador-web] |
+| ![Kevin McGuinness][KevinMcGuinness-photo]  |
+|:-:|
+|  [Kevin McGuinness (KM)](KevinMcGuinness-web)     |
 
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
+[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
+[KevinMcGuinness-photo]: img/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
 
-[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
+## Keywords
 
+ConvNetJS, t-SNE, Activations, DeepDream, NeuralStyle
 ### Related work
 
 * Zeiler, Matthew D., and Rob Fergus. ["Visualizing and understanding convolutional networks."](http://arxiv.org/abs/1311.2901) In Computer vision–ECCV 2014, pp. 818-833. Springer International Publishing, 2014.
