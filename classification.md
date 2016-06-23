@@ -15,7 +15,7 @@ hide: true
 [EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 
 ## Keywords
-Train, validation, test, supervised learning.
+Train, validation, test, supervised learning, metrics, sigmoid, linear models, single neuron
 
 
 ## Slides
