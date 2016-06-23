@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Generative Models
-permalink: /generative
+title: Unsupervised Training
+permalink: /unsupervised
 hide: true
 ---
 
