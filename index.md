@@ -78,7 +78,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
 | 3:00-3:20  | Welcome XG            | [Memory] KM        | [Unsupervised]  KM   | [Recurrent]  XG     | [Tracking]  XG            |
-| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial]  KM   | [Activity]  AS             |
+| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial]  KM   | [Video Classification]  AS             |
 | 3:40-4:00  | [Deep] ES             | [Visualization] KM | [Optimization]  KM   | [Medical] ES       | [Reinforcement]  XG         |
 | 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT   | [TensorFlow] JT         | 
 | 4:00-5:00  | Project               | Project            | Project             | Project            | Project expo             | 
@@ -123,7 +123,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [Question]: vqa
 
 [Tracking]: tracking
-[Activity]: activity
+[Video Classification]: video
 [Reinforcement]: reinforcement
 
 
