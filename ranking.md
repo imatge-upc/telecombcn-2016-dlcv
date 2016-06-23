@@ -36,3 +36,6 @@ hide: true
 * Ronghang Hu, Huazhe Xu, Marcus Rohrbach, Jiashi Feng, Kate Saenko, Trevor Darrell, ["Natural Language Object Retrieval"](https://arxiv.org/abs/1511.04164). CVPR 2016.
 
 * Wan, Ji, Dayong Wang, Steven Chu Hong Hoi, Pengcheng Wu, Jianke Zhu, Yongdong Zhang, and Jintao Li. ["Deep learning for content-based image retrieval: A comprehensive study."](http://dayongwang.info/pdf/2014-MM.pdf) In Proceedings of the ACM International Conference on Multimedia, pp. 157-166. ACM, 2014. [Slides by Albert Jiménez](https://docs.google.com/presentation/d/1K-5aBlAzKmqDVToDKoMeihVdJ2xVZkmZeJk3uL6Tf_Q/edit?usp=sharing)
+
+* Razavian, Ali, Hossein Azizpour, Josephine Sullivan, and Stefan Carlsson. ["CNN features off-the-shelf: an astounding baseline for recognition."](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/html/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp. 806-813. 2014.
+
