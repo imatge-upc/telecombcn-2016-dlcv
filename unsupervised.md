@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unsupervised Training
+title: Unsupervised Learning
 permalink: /unsupervised
 hide: true
 ---
@@ -13,6 +13,10 @@ hide: true
 
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [KevinMcGuinness-photo]: img/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
+
+## Keywords
+
+autoencoders, RBMs
 
 ## Slides
 
