@@ -77,55 +77,56 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 | When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | Welcome XG            | [Augmentation] EM  | [Off-the-shelf] AS  | [Optimization] KM  | [Reinforcement] XG       |
-| 3:20-3:40  | [Classification] EM   | [Visualization] AS | [Ranking] EM        | [Adversarial] ES   | [Objects] AS             |
-| 3:40-4:00  | [Layers] ES           | [Transfer] KM      | [Retrieval] AS      | [GAN] KM           | [Videos] XG              |
+| 3:00-3:20  | Welcome XG            | [Memory] KM        | [Unsupervised] KM   | [Recurrent] XG     | [Tracking] XG            |
+| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial] KM   | [Activity] AS             |
+| 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization] KM   | [Medical] ES       | [Reinforcement] XG         |
 | 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         | 
 | 4:00-5:00  | Project               | Project            | Project             | Project            | Project expo             | 
-| 5:00-5:20  | [Training] ES         | [Annotation] AS    | [Faces] ES          | [Caption] XG       | Test review ES           |
-| 5:20-5:40  | [ImageNet] XG         | [Generative] KM    | [Saliency] ES       | [Segmentation] AS  | Feedback  ALL            |
-| 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Memory] KM         | [Question] XG      | Closing XG               |
+| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency] ES       | [Caption] XG       | Test review ES           |
+| 5:20-5:40  | [Training] EM         | [Finetuning] AS   | [Objects] AS        | [Segmentation] AS  | Feedback  ALL            |
+| 5:40-6:00  | [Frameworks] AS       | [Transfer] KM      | [Faces] ES          | [Question] XG      | Closing XG               |
 | 6:00-7:00  | Project               | Project            | Project             | Project            | Project expo             |
 | 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
 
 [Welcome]: _posts/welcome.md
 [Classification]: classification
-[Layers]: layers
+[Deep]: layers
 
 [Tensorflow]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow
 
+[Backpropagation]: training
 [Training]: training
-[ImageNet]: imagenet
 [Frameworks]: frameworks
 
+[Memory]: memory
 [Augmentation]: augmentation
 [Visualization]: visualization
+
+[ImageNet]: imagenet
 [Transfer]: transfer
+[Finetuning]: transfer
 
-[Annotation]: annotation
-[Computation]: computation
-[Recurrent]: recurrent
-
-[Off-the-shelf]: offtheshelf
+[Unsupervised]: generative
 [Ranking]: ranking
-[Retrieval]: retrieval
-
-[Faces]: faces
-[Saliency]: saliency
-[Memory]: memory
-
 [Optimization]: optimization
+
+[Saliency]: saliency
+[Objects]: objects
+[Faces]: faces
+
+[Recurrent]: recurrent
 [Adversarial]: adversarial
-[Segmentation]: segmentation
-[GAN]: gan
+[Medical]: gan
 
 [Caption]: caption
-[Generative]: generative
+[Segmentation]: segmentation
 [Question]: vqa
 
+[Tracking]: video
+[Activity]: video
 [Reinforcement]: reinforcement
-[Objects]: objects
-[Videos]: video
+
+
 
 
 ## Practical
