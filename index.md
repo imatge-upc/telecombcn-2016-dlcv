@@ -77,14 +77,14 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 | When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | Welcome XG            | [Memory] KM        | [Unsupervised] KM   | [Recurrent] XG     | [Tracking] XG            |
-| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial] KM   | [Activity] AS             |
-| 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization] KM   | [Medical] ES       | [Reinforcement] XG         |
-| 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         | 
+| 3:00-3:20  | Welcome XG            | [Memory] KM        | [Unsupervised]  KM   | [Recurrent]  XG     | [Tracking]  XG            |
+| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial]  KM   | [Activity]  AS             |
+| 3:40-4:00  | [Deep] ES             | [Visualization] KM | [Optimization]  KM   | [Medical] ES       | [Reinforcement]  XG         |
+| 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT   | [TensorFlow] JT         | 
 | 4:00-5:00  | Project               | Project            | Project             | Project            | Project expo             | 
-| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency] ES       | [Caption] XG       | Test review ES           |
-| 5:20-5:40  | [Training] EM         | [Finetuning] AS   | [Objects] AS        | [Segmentation] AS  | Feedback  ALL            |
-| 5:40-6:00  | [Frameworks] AS       | [Transfer] KM      | [Faces] ES          | [Question] XG      | Closing XG               |
+| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency]  ES       | [Caption] XG       | Test review  ES           |
+| 5:20-5:40  | [Training] EM         | [Finetuning] AS   | [Objects]  AS        | [Segmentation] AS  | Feedback  ALL            |
+| 5:40-6:00  | [Frameworks] AS       | [Transfer] KM      | [Faces]  ES          | [Question] XG      | Closing  XG               |
 | 6:00-7:00  | Project               | Project            | Project             | Project            | Project expo             |
 | 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
 
