@@ -9,12 +9,15 @@ hide: true
 
 ## Instructor
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)](XavierGiro-web) |
+| ![Eva Mohedano][EvaMohedano-photo]  |
+|:-:|
+|  [Eva Mohedano (EM)](EvaMohedano-web)     |
 
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
-[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
+[EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
+
+# Keywords
+AlexNet, ZF, VGG, GoogLeNet, ResNet
 
 ## Related slides
 
