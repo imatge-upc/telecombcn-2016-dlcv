@@ -7,13 +7,12 @@ hide: true
 
 ## Instructor
 
-|  ![Elisa Sayrol][ElisaSayrol-photo]  |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Elisa Sayrol (ES)][ElisaSayrol-web]  |
+| ![Eva Mohedano][EvaMohedano-photo]  |
+|:-:|
+|  [Eva Mohedano (EM)](EvaMohedano-web)     |
 
-[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-
-[ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
+[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
+[EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 
 ## Slides
 
@@ -27,9 +26,6 @@ hide: true
 
 ## Related papers
 
-### Back-propagation
-
-* LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner. ["Gradient-based learning applied to document recognition."](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) Proceedings of the IEEE 86, no. 11 (1998): 2278-2324.
 
 ### Drop out
 * Hinton, Geoffrey E., Nitish Srivastava, Alex Krizhevsky, Ilya Sutskever, and Ruslan R. Salakhutdinov. ["Improving neural networks by preventing co-adaptation of feature detectors."](http://arxiv.org/abs/1207.0580) arXiv preprint arXiv:1207.0580 (2012).
