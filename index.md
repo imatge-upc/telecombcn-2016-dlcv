@@ -90,11 +90,11 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 [Welcome]: _posts/welcome.md
 [Classification]: classification
-[Deep]: layers
+[Deep]: deep
 
 [Tensorflow]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow
 
-[Backpropagation]: training
+[Backpropagation]: backprop
 [Training]: training
 [Frameworks]: frameworks
 
