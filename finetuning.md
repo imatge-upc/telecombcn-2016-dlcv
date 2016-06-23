@@ -15,6 +15,10 @@ hide: true
 
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
+## Keywords
+
+finetuning, domain adapatation
+
 ## Slides
 
 (to be added)
