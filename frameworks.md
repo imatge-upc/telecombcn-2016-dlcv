@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Object Retrieval
+title: Deep Learning Frameworks
 permalink: /frameworks
 hide: true
 ---
