@@ -15,6 +15,10 @@ hide: true
 
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
+## Keywords
+
+FCN,ReSeg
+
 ## Related slides
 
 *
@@ -33,6 +37,8 @@ hide: true
 * Long, Jonathan, Evan Shelhamer, and Trevor Darrell. ["Fully convolutional networks for semantic segmentation."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3431-3440. 2015.
 
 * Dai, Jifeng, Kaiming He, and Jian Sun. ["Instance-aware Semantic Segmentation via Multi-task Network Cascades."](http://arxiv.org/abs/1512.04412) arXiv preprint arXiv:1512.04412 (2015).
+
+* Hariharan, Bharath, Pablo Arbeláez, Ross Girshick, and Jitendra Malik. ["Hypercolumns for object segmentation and fine-grained localization."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 447-456. 2015.
 
 ## Outreach media
 
