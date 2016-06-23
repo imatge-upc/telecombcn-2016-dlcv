@@ -104,9 +104,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 [ImageNet]: imagenet
 [Transfer]: transfer
-[Finetuning]: transfer
+[Finetuning]: finetuning
 
-[Unsupervised]: generative
+[Unsupervised]: unsupervised
 [Ranking]: ranking
 [Optimization]: optimization
 
@@ -116,14 +116,14 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 [Recurrent]: recurrent
 [Adversarial]: adversarial
-[Medical]: gan
+[Medical]: medical
 
 [Caption]: caption
 [Segmentation]: segmentation
 [Question]: vqa
 
-[Tracking]: video
-[Activity]: video
+[Tracking]: tracking
+[Activity]: activity
 [Reinforcement]: reinforcement
 
 
