@@ -15,6 +15,10 @@ hide: true
 
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 
+## Keywords
+
+Convolution, Pooling, ReLU
+
 ## Slides
 
 (to be added)
