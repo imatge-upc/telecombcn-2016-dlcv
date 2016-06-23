@@ -25,4 +25,5 @@ hide: true
 
 
 ## Related work
-(to be added)
+
+* LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner. ["Gradient-based learning applied to document recognition."](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) Proceedings of the IEEE 86, no. 11 (1998): 2278-2324.
