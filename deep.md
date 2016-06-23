@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Layers Types in Convolutional Networks
-permalink: /layers
+title: Deep Neural Networks
+permalink: /deep
 hide: true
 ---
 
