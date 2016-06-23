@@ -15,6 +15,10 @@ hide: true
 
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 
+## Keywords
+
+loss function, momentum
+
 ## Slides
 
 (to be added)
