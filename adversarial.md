@@ -47,6 +47,8 @@ discriminator, generator, generative models, adversarial training
 
 * Eric Jian, ["Understanding and Implementing Deepmind's DRAW Model"] (http://evjang.com/articles/draw)
 
+* Denton, Emily L., Soumith Chintala, and Rob Fergus. ["Deep Generative Image Models using a￼ Laplacian Pyramid of Adversarial Networks."](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks) In Advances in neural information processing systems, pp. 1486-1494. 2015.
+
 * Eslami, S. M., Nicolas Heess, Theophane Weber, Yuval Tassa, Koray Kavukcuoglu, and Geoffrey E. Hinton. ["Attend, Infer, Repeat: Fast Scene Understanding with Generative Models."](http://arxiv.org/abs/1603.08575) 2016. [[video](https://youtu.be/4tc84kKdpY4)]
 
 * Larsen, Anders Boesen Lindbo, Søren Kaae Sønderby, and Ole Winther. ["Autoencoding beyond pixels using a learned similarity metric."](http://arxiv.org/abs/1512.09300) arXiv preprint arXiv:1512.09300 (2015).
