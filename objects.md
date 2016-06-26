@@ -47,3 +47,4 @@ R-CNN, Fast R-CNN, YOLO
 
 * Xiaogang Wang, ["Deep Learning in Object Recognition, Detection, and Segmentation"](http://www.nowpublishers.com/article/Details/SIG-071). Trends in Signal Processing. Volume 9, Issues 1-2. May 2016.
 
+* Liu, Wei, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, and Scott Reed. ["SSD: Single Shot MultiBox Detector."](http://arxiv.org/abs/1512.02325) arXiv preprint arXiv:1512.02325 (2015).
