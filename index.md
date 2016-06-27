@@ -83,7 +83,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT   | [TensorFlow] JT         | 
 | 4:00-5:00  | Project               | Project            | Project             | Project            | Project expo             | 
 | 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency]  ES       | [Caption] XG       | Test review  ES           |
-| 5:20-5:40  | [Training] EM         | [Finetuning] AS    | [Objects]  AS        | [Segmentation] AS  | Feedback  ALL            |
+| 5:20-5:40  | [Training] EM         | [Transfer] AS    | [Objects]  AS        | [Segmentation] AS  | Feedback  ALL            |
 | 5:40-6:00  | [Frameworks] KM       | [Attention] KM     | [Faces]  ES          | [Question] XG      | Closing  XG               |
 | 6:00-7:00  | Project               | Project            | Project             | Project            | Project expo             |
 | 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
