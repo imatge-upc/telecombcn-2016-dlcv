@@ -174,8 +174,6 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 [Video]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016
 [Beyond]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016
 
-## Preview
-
 
 ## Acknowledgements
 
