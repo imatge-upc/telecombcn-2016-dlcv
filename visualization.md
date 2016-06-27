@@ -7,12 +7,13 @@ hide: true
 
 ## Instructor
 
-| ![Kevin McGuinness][KevinMcGuinness-photo]  |
-|:-:|
-|  [Kevin McGuinness (KM)](KevinMcGuinness-web)     |
+| ![AmaiaSalvador][AmaiaSalvador-photo]  |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+ | [Amaia Salvador (AS)][AmaiaSalvador-web] |
 
-[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
-[KevinMcGuinness-photo]: img/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
+[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
+
+[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
 ## Keywords
 
