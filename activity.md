@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video Processing
+title: Activity Recognition in Videos
 permalink: /video
 hide: true
 ---
