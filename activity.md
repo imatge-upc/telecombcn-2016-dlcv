@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activity Recognition in Videos
-permalink: /video
+permalink: /activity
 hide: true
 ---
 
