@@ -77,15 +77,15 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 | When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | Welcome XG            | [Memory] KM        | [Unsupervised]  KM   | [Attention]  AS     | [Tracking]  XG            |
-| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial]  KM   | [Activity]  AS             |
-| 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization]  KM   | [Medical] ES       | [Reinforcement]  XG         |
-| 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT   | [TensorFlow] JT         | 
-| 4:00-5:00  | Project               | Project            | Project             | Project            | Project expo             | 
-| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency]  ES       | [Caption] XG       | Test review  ES           |
-| 5:20-5:40  | [Training] EM         | [Transfer] KM    | [Objects]  AS        | [Segmentation] AS  | Feedback  ALL            |
-| 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Faces]  ES          | [Question] XG      | Closing  XG               |
-| 6:00-7:00  | Project               | Project            | Project             | Project            | Project expo             |
+  | 3:00-3:20  | Welcome XG            | [Memory] KM        | [Unsupervised]  KM   | [Attention]  AS | Project Expo 3            |
+| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial]  KM  | Project Expo 4            |
+| 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization]  KM   | [Medical] ES      | Project Expo 5            |
+| 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT     | [TensorFlow] JT          | 
+| 4:00-5:00  | Project               | Project            | Project             | Project            | Closing 3,4,5              | 
+| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency]  ES       | [Language] XG     | Project Expo 1         |
+| 5:20-5:40  | [Training] EM         | [Transfer] KM    | [Objects]  AS        | [Segmentation] AS   | Project Expo 2           |
+| 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Faces]  ES          | [Activity] XG      | Break               |
+| 6:00-7:00  | Project               | Project            | Project             | Project            | Closing 1,2             |
 | 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
 
 [Welcome]: _posts/welcome.md
@@ -118,15 +118,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 [Adversarial]: adversarial
 [Medical]: medical
 
-[Caption]: caption
+[Language]: language
 [Segmentation]: segmentation
-[Question]: vqa
-
-[Tracking]: tracking
 [Activity]: activity
-[Reinforcement]: reinforcement
-
-
 
 
 ## Practical
