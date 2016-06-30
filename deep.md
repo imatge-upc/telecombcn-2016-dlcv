@@ -26,7 +26,7 @@ hide: true
 
 ## Related Work & Resources
 
-* **ReLU layers:** Glorot, Xavier, Antoine Bordes, and Yoshua Bengio. ["Deep sparse rectifier neural networks."](http://www.jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf) In International Conference on Artificial Intelligence and Statistics, pp. 315-323. 2011.
+* Glorot, Xavier, Antoine Bordes, and Yoshua Bengio. ["Deep sparse rectifier neural networks."](http://www.jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf) In International Conference on Artificial Intelligence and Statistics, pp. 315-323. 2011.
 
 * Vincent Dumoulin, Francesco Visin, ["A guide to convolution arithmetic for deep learning"](http://arxiv.org/abs/1603.07285). arXiv:1603.07285 (2016)
 
