@@ -7,13 +7,12 @@ hide: true
 
 ## Instructor
 
-| ![AmaiaSalvador][AmaiaSalvador-photo]  |
+| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  
 |:-:|:-:|:-:|:-:|:-:|:-:|
- | [Amaia Salvador (AS)][AmaiaSalvador-web] |
+| [Xavier Giro-i-Nieto (XG)](XavierGiro-web) |
 
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-
-[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
+[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 
 
 ## Slides
