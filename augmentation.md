@@ -20,15 +20,11 @@ hide: true
 (to be added)
 
 
-## Video lecture
+## Video Lecture
 
 (to be added)
 
 
-## Related work at UPC
-
-* TBD
-
-## Related work
+## Related Work & Resources
 
 * * Paulin, Mattis, Jérôme Revaud, Zaid Harchaoui, Florent Perronnin, and Cordelia Schmid. ["Transformation pursuit for image classification."](http://lear.inrialpes.fr/people/paulin/projects/ITP/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3646-3653. 2014.
