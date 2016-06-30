@@ -9,31 +9,21 @@ hide: true
 
 | ![AmaiaSalvador][AmaiaSalvador-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
- | [Amaia Salvador (AS)][AmaiaSalvador-web] |
+| [Amaia Salvador (AS)][AmaiaSalvador-web] |
 
 [AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
-## Keywords
-
-R-CNN, Fast R-CNN, YOLO
 
 ## Slides
 
 (to be added)
 
-
-## Video lecture
+## Video Lecture
 
 (to be added)
 
-
-## Related work at UPC
-
-* TBD
-
-## Related work
+## Related Work & Resources
 
 * Kuo, Weicheng, Bharath Hariharan, and Jitendra Malik. ["Deepbox: Learning objectness with convolutional networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kuo_DeepBox_Learning_Objectness_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 2479-2487. 2015. [[code]](https://github.com/weichengkuo/DeepBox)
 
