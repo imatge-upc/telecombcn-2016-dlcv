@@ -17,8 +17,7 @@ hide: true
 
 ## Slides
 
-* Xavier Giro-i-Nieto, ["Face detection"](https://docs.google.com/presentation/d/1bINnGcKExt8QjkuLGthmTgSgO0hdr3gaoUwrWI4N6ZY/edit?usp=sharing). ETSETB-UPC, 2015.
-* Xavier Giro-i-Nieto, ["Face recognition"](https://docs.google.com/presentation/d/1Y1ctCDt9YIEg0r3sP61PzN_PcbFEz-WXWkgcpd12Q00/edit?usp=sharing). ETSETB-UPC, 2015.
+(to be added)
 
 
 ## Video lecture
@@ -26,7 +25,11 @@ hide: true
 (to be added)
 
 
-## Related papers
+## Related Work & Resources
+
+* Xavier Giro-i-Nieto, ["Face detection"](https://docs.google.com/presentation/d/1bINnGcKExt8QjkuLGthmTgSgO0hdr3gaoUwrWI4N6ZY/edit?usp=sharing). ETSETB-UPC, 2015.
+
+* Xavier Giro-i-Nieto, ["Face recognition"](https://docs.google.com/presentation/d/1Y1ctCDt9YIEg0r3sP61PzN_PcbFEz-WXWkgcpd12Q00/edit?usp=sharing). ETSETB-UPC, 2015.
 
 * Taigman, Yaniv, Ming Yang, Marc'Aurelio Ranzato, and Lior Wolf. ["Deepface: Closing the gap to human-level performance in face verification."](http://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Taigman_DeepFace_Closing_the_2014_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1701-1708. 2014.
 
