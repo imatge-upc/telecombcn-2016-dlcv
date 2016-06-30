@@ -81,11 +81,11 @@ Deep learning technologies are at the core of the current revolution in artifici
 | 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Ranking] EM        | [Adversarial]  KM  | Project Expo 4            |
 | 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization]  KM   | [Medical] ES      | Project Expo 5            |
 | 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT     | [TensorFlow] JT          | 
-| 4:00-5:00  | Project               | Project            | Project             | Project            | Closing 3,4,5              | 
+| 4:00-5:00  | [Project]               | [Project]        | [Project]         | [Project]            | Closing 3,4,5              | 
 | 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency]  ES       | [Language] XG     | Project Expo 1         |
 | 5:20-5:40  | [Training] EM         | [Transfer] KM    | [Objects]  AS        | [Segmentation] AS   | Project Expo 2           |
 | 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Faces]  ES          | [Activity] XG      | Break               |
-| 6:00-7:00  | Project               | Project            | Project             | Project            | Closing 1,2             |
+| 6:00-7:00  | [Project]               | [Project]            | [Project]             | [Project]            | Closing 1,2             |
 | 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
 
 [Welcome]: _posts/welcome.md
@@ -122,6 +122,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [Segmentation]: segmentation
 [Activity]: activity
 
+[Project]: project
 
 ## Practical
 * Course code: [230360](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf) (Phd & master) / [230324](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/Fitxa_guia_docent_seminari_grau_IDLCV.pdf) (Bachelor)
