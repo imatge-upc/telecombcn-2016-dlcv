@@ -5,8 +5,6 @@ permalink: /imagenet
 hide: true
 ---
 
-# The Story of ImageNet Large Scale Visual Recognition Challenge (ILSVRC)
-
 ## Instructor
 
 | ![Eva Mohedano][EvaMohedano-photo]  |
@@ -16,18 +14,18 @@ hide: true
 [EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
 [EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 
-# Keywords
-AlexNet, ZF, VGG, GoogLeNet, ResNet
 
-## Related slides
-
-* Xavier Giro-i-Nieto, ["Deep Convnets for Global Scale Recognition"](http://www.slideshare.net/xavigiro/deep-convnets-for-global-recognition). Master in Computer Vision Barcelona. March 2016.
-
-## Video lecture
+## Slides
 
 (to be added)
 
-## Related Publications
+## Video Lecture
+
+(to be added)
+
+## Related Work & Resources
+
+* Xavier Giro-i-Nieto, ["Deep Convnets for Global Scale Recognition"](http://www.slideshare.net/xavigiro/deep-convnets-for-global-recognition). Master in Computer Vision Barcelona. March 2016.
 
 * Russakovsky, Olga, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang et al. ["Imagenet large scale visual recognition challenge."](http://arxiv.org/abs/1409.0575) International Journal of Computer Vision 115, no. 3 (2015): 211-252.
 
