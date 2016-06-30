@@ -9,10 +9,9 @@ hide: true
 
 | ![AmaiaSalvador][AmaiaSalvador-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
- | [Amaia Salvador (AS)][AmaiaSalvador-web] |
+| [Amaia Salvador (AS)][AmaiaSalvador-web] |
 
 [AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
 
@@ -23,7 +22,6 @@ hide: true
 ## Video Lecture
 
 (to be added)
-
 
 ## Related Work & Resources
 
