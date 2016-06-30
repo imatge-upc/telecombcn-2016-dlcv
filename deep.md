@@ -15,21 +15,16 @@ hide: true
 
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 
-## Keywords
-
-Convolution, Pooling, ReLU
-
 ## Slides
 
 (to be added)
 
-## Video lecture
+## Video Lecture
 
 (to be added)
 
 
-
-## Related papers
+## Related Work & Resources
 
 * **ReLU layers:** Glorot, Xavier, Antoine Bordes, and Yoshua Bengio. ["Deep sparse rectifier neural networks."](http://www.jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf) In International Conference on Artificial Intelligence and Statistics, pp. 315-323. 2011.
 
