@@ -19,16 +19,9 @@ hide: true
 
 (to be added)
 
-* Xavier Giro-i-Nieto, [Deep Learning for Computer Vision: Video Analytics](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016). Master in Multimedia Creation. URL La Salle Barcelona. May 2016.
-
 ## Video lecture
 
 (to be added)
-
-
-## Related work at UPC
-
-* Alberto Montes bachelor thesis (ETSETB 2016).
 
 ## Related work
 
@@ -49,3 +42,12 @@ hide: true
 * Xiaolong Wang, Ali Farhadi and Abhinav Gupta ["Actions ~ Transformations"](http://www.cs.cmu.edu/~xiaolonw/actioncvpr.html). CVPR 2016
 
 * Feichtenhofer, Christoph, Axel Pinz, and Andrew Zisserman. ["Convolutional Two-Stream Network Fusion for Video Action Recognition."](http://arxiv.org/abs/1604.06573) CVPR 2016.
+
+## Related work at UPC
+
+* Alberto Montes bachelor thesis (ETSETB 2016)
+
+
+## Resources 
+
+* Xavier Giro-i-Nieto, [Deep Learning for Computer Vision: Video Analytics](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016). Master in Multimedia Creation. URL La Salle Barcelona. May 2016.
