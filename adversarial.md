@@ -14,9 +14,6 @@ hide: true
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [KevinMcGuinness-photo]: img/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
 
-## Keywords
-
-discriminator, generator, generative models, adversarial training
 ## Slides
 
 (to be added)
@@ -25,9 +22,7 @@ discriminator, generator, generative models, adversarial training
 
 (to be added)
 
-
-
-## Related papers
+## Related Work & Resources
 
 * Szegedy, Christian, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, and Rob Fergus. ["Intriguing properties of neural networks."](http://arxiv.org/abs/1312.6199) arXiv preprint arXiv:1312.6199 (2013). [[UPC slides](https://docs.google.com/presentation/d/1g58oIdS_a9uEeiuDHC85OrU2tql3Prrn_jcHCPjB6pU/edit?usp=sharing)]
 
