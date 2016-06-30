@@ -5,16 +5,6 @@ permalink: /project
 hide: true
 ---
 
-## Project Coordinator
-
-| ![AmaiaSalvador][AmaiaSalvador-photo]  |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Amaia Salvador (AS)][AmaiaSalvador-web] |
-
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
-
-
 ## Introduction
 
 Projects can be developed using any of the many available deep learning frameworks. However, we encourage you to use Keras,
