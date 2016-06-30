@@ -19,7 +19,7 @@ hide: true
 
 (to be added)
 
-## Video lecture
+## Video Lecture
 
 (to be added)
 
