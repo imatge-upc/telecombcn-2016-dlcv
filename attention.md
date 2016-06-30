@@ -15,20 +15,16 @@ hide: true
 
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
-## Keywords
-
-attention, spatial transformers
-
 
 ## Slides
 
 (to be added)
 
-## Video lecture
+## Video Lecture
 
 (to be added)
 
 
-## Related papers
+## Related Work & Resources
 
 * Jaderberg, M., Simonyan, K., & Zisserman, A. (2015). Spatial transformer networks. In Advances in Neural Information Processing Systems (pp. 2017-2025).
