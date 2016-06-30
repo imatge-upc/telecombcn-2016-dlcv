@@ -23,7 +23,7 @@ hide: true
 
 (to be added)
 
-## Related work
+## Related Work & Resources
 
 * Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R., & Fei-Fei, L. (2014, June). [Large-scale video classification with convolutional neural networks](http://cs.stanford.edu/people/karpathy/deepvideo/). In Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on (pp. 1725-1732). IEEE.
 
@@ -43,11 +43,8 @@ hide: true
 
 * Feichtenhofer, Christoph, Axel Pinz, and Andrew Zisserman. ["Convolutional Two-Stream Network Fusion for Video Action Recognition."](http://arxiv.org/abs/1604.06573) CVPR 2016.
 
+* Xavier Giro-i-Nieto, [Deep Learning for Computer Vision: Video Analytics](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016). Master in Multimedia Creation. URL La Salle Barcelona. May 2016.
+
 ## Related work at UPC
 
 * Alberto Montes bachelor thesis (ETSETB 2016)
-
-
-## Resources 
-
-* Xavier Giro-i-Nieto, [Deep Learning for Computer Vision: Video Analytics](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016). Master in Multimedia Creation. URL La Salle Barcelona. May 2016.
