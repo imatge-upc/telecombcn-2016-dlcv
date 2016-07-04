@@ -14,15 +14,7 @@ hide: true
 [EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
 [EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 
-
-## Slides
-
-(to be added)
-
-## Video Lecture
-
-(to be added)
-
+* [Slides](slides/classification.md)
 
 ## Related Work & Resources
 
