@@ -17,7 +17,7 @@ hide: true
 
 ## Slides
 
-(to be added)
+* [Slides](slides/D2L6-recurrent.pdf)
 
 ## Video lecture
 
