@@ -14,7 +14,7 @@ hide: true
 [EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
 [EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 
-* [Slides](slides/classification.pdf)
+* [Slides](slides/D1L2-classification.pdf)
 
 ## Related Work & Resources
 
