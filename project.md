@@ -13,6 +13,10 @@ Projects can be developed using any of the many available deep learning framewor
 which is easy to learn and get used to. Students can also choose whether to run their project experiments in the 
 provided server (CPUs only), or to use your personal computers. 
 
+## Slides
+
+* [Project kick off](slides/D1P-kickoff.pdf)
+
 ## Server Access & Setup
 
 The instructions for the access to the server will be provided to students by e-mail.
