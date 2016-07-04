@@ -17,11 +17,7 @@ hide: true
 
 ## Slides
 
-(to be added)
-
-## Video Lecture
-
-(to be added)
+* [Slides](slides/D1L3-deep.pdf)
 
 
 ## Related Work & Resources
