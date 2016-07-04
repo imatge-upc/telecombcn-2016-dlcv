@@ -14,13 +14,7 @@ hide: true
 [EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
 [EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 
-## Keywords
-
-dropout, overfitting, learning curves, hyperparameters
-
-## Slides
-
-(to be added)
+* [Slides](slides/D1L5-training.pdf)
 
 ## Video lecture
 
