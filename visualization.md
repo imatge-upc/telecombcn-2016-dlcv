@@ -9,16 +9,16 @@ hide: true
 
 | ![AmaiaSalvador][AmaiaSalvador-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
- | [Amaia Salvador (AS)][AmaiaSalvador-web] |
+| [Amaia Salvador (AS)][AmaiaSalvador-web] |
 
 [AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
 
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
-## Keywords
+## Slides
+*[Slides](slides/[DLCV] D2L3 Visualization.pdf)
 
-ConvNetJS, t-SNE, Activations, DeepDream, NeuralStyle
-### Related work
+## Related Work & Resources
 
 * Zeiler, Matthew D., and Rob Fergus. ["Visualizing and understanding convolutional networks."](http://arxiv.org/abs/1311.2901) In Computer vision–ECCV 2014, pp. 818-833. Springer International Publishing, 2014.
 
@@ -29,8 +29,6 @@ ConvNetJS, t-SNE, Activations, DeepDream, NeuralStyle
 * Zintgraf, Luisa M., Taco S. Cohen, and Max Welling. ["A new method to visualize deep neural networks."](http://arxiv.org/abs/1603.02518) arXiv preprint arXiv:1603.02518 (2016).
 
 * Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba. [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/">Learning Deep Features for Discriminative Localization), CVPR 2016. ([Slides by Marc Bolaños](https://docs.google.com/presentation/d/1CItqjtAYa_OKVLs5BqqCzM8dEbCwkwit4Ooem_WJpY0/edit#slide=id.p))
-
-### Demos
 
 * Antonio Torralba et al, [DrawNet online demo](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html).
 
