@@ -1,23 +1,23 @@
 ---
 layout: page
-title: ImageNet
+title: Imagenet
 permalink: /imagenet
 hide: true
 ---
 
 ## Instructor
 
-| ![Eva Mohedano][EvaMohedano-photo]  |
-|:-:|
-|  [Eva Mohedano (EM)](EvaMohedano-web)     |
+| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Xavier Giro-i-Nieto (XG)](XavierGiro-web) |
 
-[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
-[EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
+[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 
 
 ## Slides
 
-(to be added)
+* [Slides](slides/D2L4-imagenet.pdf)
 
 ## Video Lecture
 
