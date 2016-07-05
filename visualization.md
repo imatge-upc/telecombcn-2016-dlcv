@@ -16,7 +16,7 @@ hide: true
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
 
 ## Slides
-*[Slides](slides/[DLCV] D2L3 Visualization.pdf)
+[Slides](slides/[DLCV] D2L3 Visualization.pdf)
 
 ## Related Work & Resources
 
