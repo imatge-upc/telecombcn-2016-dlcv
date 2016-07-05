@@ -18,7 +18,7 @@ hide: true
 model size, memory use, computational requirements, gradient splitting
 
 ## Slides
-* [Slides]([DLCV] D2L1 Memory.pdf)
+* [Slides](slides/[DLCV] D2L1 Memory.pdf)
 
 ## Video lecture
 
