@@ -82,7 +82,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization]  KM   | [Medical] ES      | Project Expo 5            |
 | 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT     | [TensorFlow] JT          | 
 | 4:00-5:00  | [Project]               | [Project]        | [Project]         | [Project]            | Closing 3,4,5              | 
-| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] EM      | [Saliency]  ES       | [Language] XG     | Project Expo 1         |
+| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] XG      | [Saliency]  ES       | [Language] XG     | Project Expo 1         |
 | 5:20-5:40  | [Training] EM         | [Transfer] KM    | [Objects]  AS        | [Segmentation] AS   | Project Expo 2           |
 | 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Faces]  ES          | [Activity] XG      | Break               |
 | 6:00-7:00  | [Project]               | [Project]            | [Project]             | [Project]            | Closing 1,2             |
