@@ -17,8 +17,7 @@ hide: true
 
 ## Slides
 
-(to be added)
-
+* [Slides](slides/[DLCV] D2L2 Augmentation.pdf)
 
 ## Video Lecture
 
