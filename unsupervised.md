@@ -14,12 +14,7 @@ hide: true
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [KevinMcGuinness-photo]: img/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
 
-## Keywords
-
-autoencoders, RBMs
-
-
-* [Slides](slides/D3L1-Unsupervised.pdf)
+* [Slides](slides/D3L1-unsupervised.pdf)
 
 ## Video lecture
 
