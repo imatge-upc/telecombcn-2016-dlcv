@@ -15,7 +15,7 @@ hide: true
 
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 
-* [Slides](slides/D1L4-backpropagation.pdf)
+* [Slides](slides/D1L4-backprop.pdf)
 
 
 ## Related Work & Resources
