@@ -18,9 +18,8 @@ hide: true
 
 autoencoders, RBMs
 
-## Slides
 
-(to be added)
+* [Slides](slides/D3L1-Unsupervised.pdf)
 
 ## Video lecture
 
