@@ -16,6 +16,7 @@ provided server (CPUs only), or to use your personal computers.
 ## Slides
 
 * [Project kick off](slides/D1P-kickoff.pdf)
+* [Oral Presentation instructions](slides/D3P-Oral Presentation instructions.pdf)
 
 ## Server Access & Setup
 
