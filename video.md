@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Activity Recognition in Videos
-permalink: /activity
+title: Video Analytics
+permalink: /video
 hide: true
 ---
 
