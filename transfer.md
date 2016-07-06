@@ -16,7 +16,7 @@ hide: true
 
 ## Slides
 
-(to be added)
+* [Slides](slides/D2L5-transfer.pdf)
 
 ## Video lecture
 
