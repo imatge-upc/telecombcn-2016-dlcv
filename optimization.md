@@ -16,7 +16,7 @@ hide: true
 
 ## Slides
 
-* [Slides](slides/D2L3-optimization.pdf)
+* [Slides](slides/D3L3-optimization.pdf)
 
 ## Video lecture
 
