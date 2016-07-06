@@ -17,7 +17,7 @@ hide: true
 
 ## Slides
 
-(to be added)
+* [Slides](slides/D3L4-objects.pdf)
 
 ## Video Lecture
 
