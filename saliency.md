@@ -17,8 +17,7 @@ hide: true
 
 ## Slides
 
-* Junting Pan, ["Visual Saliency Prediction using Deep Learning Techniques"](http://www.slideshare.net/xavigiro/saliency-prediction-using-deep-learning-techniques). ETSETB-UPC, 2015.
-
+* [Slides](slides/D3L2-saliency.pdf)
 
 ## Video lecture
 
