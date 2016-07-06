@@ -35,22 +35,22 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Teaching assistants
 
-| ![Junting Pan][JuntingPan-photo] |  ![Míriam Bellver][MiriamBellver-photo]  | ![AlbertJimenez][AlbertJimenez-photo]  | ![Andrea Ferri][AndreaFerri-photo] | ![Alberto Montes][AlbertoMontes-photo]  | ![Marc Carné][MarcCarne-photo]  |
+| ![Junting Pan][JuntingPan-photo] |  ![Míriam Bellver][MiriamBellver-photo]  | ![AlbertJimenez][AlbertJimenez-photo]  | ![Andrea Ferri][AndreaFerri-photo] | ![Alberto Montes][AlbertoMontes-photo]  |   |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Junting Pan | [Míriam Bellver][MiriamBellver-web]  | [Albert Jiménez][AlbertJimenez-web] |  [Andrea Ferri][AndreaFerri-web] | [Alberto Montes][AlbertoMontes-web]  | Marc Carné     |
+| Junting Pan | [Míriam Bellver][MiriamBellver-web]  | [Albert Jiménez][AlbertJimenez-web] |  [Andrea Ferri][AndreaFerri-web] | [Alberto Montes][AlbertoMontes-web]  | [Maurici Yagües][MauriciYagues-web]     |
 
 [MiriamBellver-web]: https://www.linkedin.com/in/m%C3%ADriam-bellver-bueno-5090b4b5
 [AlbertJimenez-web]: https://www.linkedin.com/in/albertjimenezsanfiz
 [AndreaFerri-web]: https://www.linkedin.com/in/ferriand
 [SantiPascual-web]: https://github.com/santi-pdp
 [AlbertoMontes-web]: https://www.linkedin.com/in/alm59321
+[MauriciYagues-web]: https://www.bsc.es/about-bsc/staff-directory/yagues-maurici
 
 [JuntingPan-photo]: img/assistants/JuntingPan160x160.jpg "Junting Pan"
 [MiriamBellver-photo]: img/assistants/MiriamBellver160x160.jpg "Miriam Bellver"
 [AlbertJimenez-photo]: img/assistants/AlbertJimenez160x160.jpg "Albert Jiménez"
 [AndreaFerri-photo]: img/assistants/AndreaFerri160x160.jpg "Andrea Ferri"
 [AlbertoMontes-photo]: img/assistants/AlbertoMontes160x160.jpg "Alberto Montes"
-[MarcCarne-photo]: img/assistants/MarcCarne160x160.jpg "Marc Carné"
 
 ## Organizers
 
