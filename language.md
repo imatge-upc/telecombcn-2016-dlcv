@@ -16,7 +16,7 @@ hide: true
 
 ## Slides
 
-(to be added)
+* [Slides](slides/D4L4-language.pdf)
 
 ## Video Lecture
 
