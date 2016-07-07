@@ -14,7 +14,7 @@ hide: true
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [KevinMcGuinness-photo]: img/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
 
-* [Slides](slides/D4L1-Adversarial.pdf)
+* [Slides](slides/D4L1-adversarial.pdf)
 
 ## Video Lecture
 
