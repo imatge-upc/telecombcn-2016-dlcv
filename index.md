@@ -107,7 +107,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [Attention]: attention
 
 [Unsupervised]: unsupervised
-[Ranking]: ranking
+[Ranking]: rankingv
 [Optimization]: optimization
 
 [Saliency]: saliency
@@ -160,13 +160,13 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
-* Xavier Giro-i-Nieto, "Deep learning for computer vision: [Image], [Object], [Video] Analytics and [Beyond]". LaSalle URL. May 2016.
+* Xavier Giro-i-Nieto, "Deep learning for computer vision: [Image], [Object], [Videos] Analytics and [Beyond]". LaSalle URL. May 2016.
 * German Ros, Joost van de Weijer, Marc Masana, Yaxing Wang, ["Hands-on Deep Learning with Matconvnet"](http://www.cvc.uab.es/~gros/index.php/hands-on-deep-learning-with-matconvnet/). Computer Vision Center (CVC) 2015.
 
 
 [Image]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016
 [Object]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016
-[Video]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016
+[Videos]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016
 [Beyond]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016
 
 
