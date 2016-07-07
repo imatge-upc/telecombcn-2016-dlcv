@@ -14,10 +14,9 @@ hide: true
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 
-
 ## Slides
 
-(to be added)
+* [Slides](slides/D4L6-video.pdf)
 
 ## Video Lecture
 
