@@ -17,7 +17,8 @@ hide: true
 
 ## Slides
 
-(to be added)
+* [Slides](slides/D4L6-attention.pdf)
+
 
 ## Video Lecture
 
