@@ -19,9 +19,8 @@ hide: true
 
 FCN,ReSeg
 
-## Related slides
+* [Slides](slides/D4L2-segmentation.pdf)
 
-*
 ## Video lecture
 
 (to be added)
