@@ -16,7 +16,7 @@ hide: true
 
 ## Slides
 
-* [Slides](slides/D4L6-video.pdf)
+* [Slides](slides/D4L4-video.pdf)
 
 ## Video Lecture
 
