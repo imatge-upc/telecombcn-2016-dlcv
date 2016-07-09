@@ -78,7 +78,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 | When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | [Welcome] XG            | [Memory] KM      | [Unsupervised]  KM   | [Adversarial]  KM  | Project Expo 3            |
+| 3:00-3:20  | [Welcome] XG          | [Memory] KM      | [Unsupervised]  KM   | [Adversarial]  KM  | Project Expo 3            |
 | 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Saliency]  ES     | [Segmentation] AS  | Project Expo 4            |
 | 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization]  KM   | [Language] XG       | Project Expo 5            |
 | 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT     | [TensorFlow] JT          | 
