@@ -35,7 +35,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Teaching assistants
 
-| ![Junting Pan][JuntingPan-photo] |  ![Míriam Bellver][MiriamBellver-photo]  | ![AlbertJimenez][AlbertJimenez-photo]  | ![Andrea Ferri][AndreaFerri-photo] | ![Alberto Montes][AlbertoMontes-photo]  |   |
+| ![Junting Pan][JuntingPan-photo] |  ![Míriam Bellver][MiriamBellver-photo]  | ![AlbertJimenez][AlbertJimenez-photo]  | ![Andrea Ferri][AndreaFerri-photo] | ![Alberto Montes][AlbertoMontes-photo]  | ![Maurici Yagües][MauriciYagues-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Junting Pan | [Míriam Bellver][MiriamBellver-web]  | [Albert Jiménez][AlbertJimenez-web] |  [Andrea Ferri][AndreaFerri-web] | [Alberto Montes][AlbertoMontes-web]  | [Maurici Yagües][MauriciYagues-web]     |
 
@@ -51,6 +51,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [AlbertJimenez-photo]: img/assistants/AlbertJimenez160x160.jpg "Albert Jiménez"
 [AndreaFerri-photo]: img/assistants/AndreaFerri160x160.jpg "Andrea Ferri"
 [AlbertoMontes-photo]: img/assistants/AlbertoMontes160x160.jpg "Alberto Montes"
+[MauriciYagues-photo]: img/assistants/MauriciYagues160x160.jpg "MauriciYagues"
 
 ## Organizers
 
