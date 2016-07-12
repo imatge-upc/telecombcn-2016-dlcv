@@ -29,6 +29,3 @@ model size, memory use, computational requirements, gradient splitting
 
 * TBD
 
-## Related work
-
-(to be added)
