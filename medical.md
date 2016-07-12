@@ -25,7 +25,7 @@ hide: true
 
 (to be added)
 
-## Related work
+## Related work & Resources
 
 * ["Deep Learning Applications to Medical Image Analysis"](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxza2V2aW56aG91fGd4OjM2NWFhN2QyMzMzMTA5Ng), Prof. Dinggang Shen, Univ. of North Carolina, USA
 
