@@ -22,7 +22,7 @@ hide: true
 (to be added)
 
 
-## Related Work & Resources
+## Resources
 
 * ["Caffe"](http://caffe.berkeleyvision.org/)
 * ["NVIDIA Digits"](https://developer.nvidia.com/digits)
