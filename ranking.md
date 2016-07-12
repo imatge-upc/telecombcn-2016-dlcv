@@ -16,7 +16,7 @@ hide: true
 
 ## Slides
 
-(to be added)
+* [Slides](slides/D3L6-ranking.pdf)
 
 ## Video lecture
 
