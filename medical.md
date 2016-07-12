@@ -25,9 +25,10 @@ hide: true
 
 (to be added)
 
-## Related work
+## Related work and Resources
 
 * ["Deep Learning Applications to Medical Image Analysis"](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxza2V2aW56aG91fGd4OjM2NWFhN2QyMzMzMTA5Ng), Prof. Dinggang Shen, Univ. of North Carolina, USA
+
 * ["From DBNs to Deep ConvNets: Pushing the State of the Art in Medical Image Analysis"](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxza2V2aW56aG91fGd4OjRjNGJlZTgxZGM1OGE1NTE), Prof. Gustavo Carneiro, University Adelaide, Australia
 
 * Yuanpu Xie, Fuyong Xing, Xiangfei Kong, Hai Su, Lin Yang, ["Beyond Classification: Structured Regression For Robust Cell Detection Using Convolutional Neural Network"](http://link.springer.com/chapter/10.1007%2F978-3-319-24574-4_43#page-1), MICCAI 2015
