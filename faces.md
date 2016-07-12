@@ -16,9 +16,7 @@ hide: true
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 
 ## Slides
-
-(to be added)
-
+* [Slides](slides/D3L5-faces.pdf)
 
 ## Video lecture
 
