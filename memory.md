@@ -25,7 +25,3 @@ model size, memory use, computational requirements, gradient splitting
 (to be added)
 
 
-## Related work at UPC
-
-* TBD
-
