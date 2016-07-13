@@ -82,11 +82,11 @@ Deep learning technologies are at the core of the current revolution in artifici
 | 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Saliency]  ES     | [Segmentation] AS  | Project Expo 4            |
 | 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization]  KM   | [Language] XG       | Project Expo 5            |
 | 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT     | [TensorFlow] JT          | 
-| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | Closing 3,4,5              | 
+| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | [Closing] 3,4,5              | 
 | 5:00-5:20  | [Backpropagation] ES  | [ImageNet] XG      | [Objects]  AS       |  [Video] XG     | Project Expo 1         |
 | 5:20-5:40  | [Training] EM         | [Transfer] KM      | [Faces]  ES       |  [Medical] ES  | Project Expo 2           |
 | 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Ranking] EM         |  [Attention] AS     | Break               |
-| 6:00-7:00  | [Project]               | [Project]        | [Project]       | [Project]            | Closing 1,2             |
+| 6:00-7:00  | [Project]               | [Project]        | [Project]       | [Project]            | [Closing] 1,2             |
 | 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
 
 [Welcome]: welcome
@@ -124,6 +124,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [Video]: video
 
 [Project]: project
+[Closing]: https://github.com/imatge-upc/telecombcn-2016-dlcv/raw/gh-pages/slides/D5P-closing.pdf
 
 ## Practical
 * Course code: [230360](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf) (Phd & master) / [230324](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/Fitxa_guia_docent_seminari_grau_IDLCV.pdf) (Bachelor)
