@@ -128,14 +128,14 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Slides and Videos (under construction)
 
-| Day        |  Schedule  | Topic                | Speaker |                                  |                                 | 
+| Day        |  Schedule  | Topic                | Speaker |                                  |  Videos (TBD)                   | 
 |:----------:|:----------:|:--------------------:|:-------:|:--------------------------------:|:-------------------------------:|
-| Monday 4   | 3:00-3:20  | Welcome              | XG      | [Slides](welcome-slides)         | [Video](welcome-video)          |
-| Monday 4   | 3:20-3:40  | Classification       | EM      | [Slides](classification-slides)  | [Video](classification-video)   |
+| Monday 4   | 3:00-3:20  | Welcome              | XG      | [Slides][welcome-slides]         |           |
+| Monday 4   | 3:20-3:40  | Classification       | EM      | [Slides][classification-slides]  |   |
 
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
-[welcome-video]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
+[classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
 
 
 
