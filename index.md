@@ -132,13 +132,12 @@ Deep learning technologies are at the core of the current revolution in artifici
 |:----------:|:----------:|:--------------------:|:-------:|:--------------------------------:|:-------------------------------:|
 | Monday 4   | 3:00-3:20  | Welcome              | XG      | [Slides][welcome-slides]         |           |
 | Monday 4   | 3:20-3:40  | Classification       | EM      | [Slides][classification-slides]  |   |
+| Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]  |   |
 
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
 [classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
-
-
-
+[language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
 
 
 ## Practical
