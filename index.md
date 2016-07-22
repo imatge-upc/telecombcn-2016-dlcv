@@ -133,7 +133,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | Monday 4   | 3:00-3:20  | Welcome              | XG      | [Slides][welcome-slides]         |           |
 | Monday 4   | 3:20-3:40  | Classification       | EM      | [Slides][classification-slides]  |   |
 | Monday 4   | 3:40-4:00  | Deep networks        | ES      | [Slides][deep-slides]            |   |
-| Monday 4   | 5:00-5:20  | Backward Propagation | ES      | [Slides][deep-backprop]            |   |
+| Monday 4   | 5:00-5:20  | Backward Propagation | ES      | [Slides][backprop-slides]            |   |
 | Monday 4   | 5:20-5:40  | Training             | EM      | [Slides][training-slides]            |   |
 | Monday 4   | 5:40-6:00  | Software frameworks  | KM      | [Slides][frameworks-slides]            |   |
 | Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]        |   |
