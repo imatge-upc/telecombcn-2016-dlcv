@@ -132,11 +132,19 @@ Deep learning technologies are at the core of the current revolution in artifici
 |:----------:|:----------:|:--------------------:|:-------:|:--------------------------------:|:-------------------------------:|
 | Monday 4   | 3:00-3:20  | Welcome              | XG      | [Slides][welcome-slides]         |           |
 | Monday 4   | 3:20-3:40  | Classification       | EM      | [Slides][classification-slides]  |   |
-| Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]  |   |
+| Monday 4   | 3:40-4:00  | Deep networks        | ES      | [Slides][deep-slides]            |   |
+| Monday 4   | 5:00-5:20  | Backward Propagation | ES      | [Slides][deep-backprop]            |   |
+| Monday 4   | 5:20-5:40  | Training             | EM      | [Slides][training-slides]            |   |
+| Monday 4   | 5:40-6:00  | Software frameworks  | KM      | [Slides][frameworks-slides]            |   |
+| Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]        |   |
 
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
 [classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
+[deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016
+[backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
+[training-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-training-upc-2016
+[frameworks-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-software-frameworks-upc-2016
 [language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
 
 
