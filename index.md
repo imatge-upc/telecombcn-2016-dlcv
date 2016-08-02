@@ -135,8 +135,10 @@ Deep learning technologies are at the core of the current revolution in artifici
 | Monday 4   | 3:40-4:00  | Deep networks        | ES      | [Slides][deep-slides]            |   |
 | Monday 4   | 5:00-5:20  | Backward Propagation | ES      | [Slides][backprop-slides]            |   |
 | Monday 4   | 5:20-5:40  | Training             | EM      | [Slides][training-slides]            |   |
-| Monday 4   | 5:40-6:00  | Software frameworks  | KM      | [Slides][frameworks-slides]            |   |
+| Monday 4   | 5:40-6:00  | Software Frameworks  | KM      | [Slides][frameworks-slides]            |   |
 | Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]        |   |
+| Thursday 7 | 5:40-6:00  | Attention Models  | AS      | [Slides][attention-slides]        | [Video][attention-video]  |
+
 
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
@@ -146,6 +148,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 [training-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-training-upc-2016
 [frameworks-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-software-frameworks-upc-2016
 [language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
+[attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
+
+[attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
 
 
 ## Practical
