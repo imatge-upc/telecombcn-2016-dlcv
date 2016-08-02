@@ -128,19 +128,19 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Slides and Videos (under construction)
 
-| Day        |  Schedule  | Topic                | Speaker |                                  |  Videos (TBD)                   | 
-|:----------:|:----------:|:--------------------:|:-------:|:--------------------------------:|:-------------------------------:|
-| Monday 4   | 3:00-3:20  | Welcome              | XG      | [Slides][welcome-slides]         |           |
-| Monday 4   | 3:20-3:40  | Classification       | EM      | [Slides][classification-slides]  |   |
-| Monday 4   | 3:40-4:00  | Deep networks        | ES      | [Slides][deep-slides]            |   |
-| Monday 4   | 5:00-5:20  | Backward Propagation | ES      | [Slides][backprop-slides]        | [Video][backprop-video]  |
-| Monday 4   | 5:20-5:40  | Training             | EM      | [Slides][training-slides]        |   |
-| Monday 4   | 5:40-6:00  | Software Frameworks  | KM      | [Slides][frameworks-slides]      | [Video][frameworks-video] |
-| Tuesday 5  | 3:00-3:20  | Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
-| Tuesday 5  | 3:40-4:00  | Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
-| Tuesday 5  | 5:40-6:00  | Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
-| Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
-| Thursday 7 | 5:40-6:00  | Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
+| Topic                | Speaker |       Slideshare                 |  YouTube                        | 
+|:--------------------:|:-------:|:--------------------------------:|:-------------------------------:|
+| Welcome              | XG      | [Slides][welcome-slides]         |           |
+| Classification       | EM      | [Slides][classification-slides]  |   |
+| Deep networks        | ES      | [Slides][deep-slides]            |   |
+| Backward Propagation | ES      | [Slides][backprop-slides]        | [Video][backprop-video]  |
+| Training             | EM      | [Slides][training-slides]        |   |
+| Software Frameworks  | KM      | [Slides][frameworks-slides]      | [Video][frameworks-video] |
+| Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
+| Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
+| Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
+| Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
+| Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
 [classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
