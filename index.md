@@ -139,8 +139,8 @@ Deep learning technologies are at the core of the current revolution in artifici
 | Tuesday 5  | 3:00-3:20  | Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
 | Tuesday 5  | 3:40-4:00  | Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
 | Tuesday 5  | 5:40-6:00  | Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
-| Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]        | |
-| Thursday 7 | 5:40-6:00  | Attention Models  | AS      | [Slides][attention-slides]         | [Video][attention-video]  |
+| Thursday 7 | 3:40-4:00  | Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
+| Thursday 7 | 5:40-6:00  | Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
 [classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
@@ -159,6 +159,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [recurrent-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
 
 [language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
+[language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
 [attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
 [attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
 
