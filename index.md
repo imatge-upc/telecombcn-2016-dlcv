@@ -92,7 +92,11 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D3L4 Object Detection     | AS      | [Slides][object-slides]          | [Video][object-video]   |
 | D3L5 Face Recognition     | ES      | [Slides][face-slides]            | [Video][face-video]   |
 | D3L6 Image retrieval      | EM      | [Slides][retrieval-slides]       | [Video][retrieval-video]   |
+| D4L1 Generative Models    | KM      | [Slides][generative-slides]      |  |
+| D4L2 Segmentation         | AS      | [Slides][segmentation-slides]    | [Video][segmentation-video] |
 | D4L3 Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
+| D4L4 Video Analytics      | XG      | [Slides][video-slides]           | [Video][video-video] |
+| D4L5 Medical Imaging      | ES      | [Slides][medical-slides]         | [Video][medical-video] |
 | D4L6 Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
@@ -122,8 +126,15 @@ Deep learning technologies are at the core of the current revolution in artifici
 [retrieval-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-image-retrieval-upc-2016
 [retrieval-video]: https://www.youtube.com/watch?v=tsGhPsZiexQ
 
+[generative-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-generative-models-and-adversarial-training-upc-2016
+[segmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-segmentation-upc-2016
+[segmentation-video]: https://www.youtube.com/watch?v=_aTTlkZ0kTo
 [language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
 [language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
+[video-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-video-analytics-upc-2016
+[video-video]: https://www.youtube.com/watch?v=2ALNzI90ysA
+[medical-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-medical-imaging-upc-2016 
+[medical-video]: https://www.youtube.com/watch?v=3gzIilFAmmY
 [attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
 [attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
 
