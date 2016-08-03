@@ -73,7 +73,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
-## Slides and Videos (under construction)
+## Slides and Videos 
 
 | Topic                     | Speaker |       Slideshare                 |  YouTube                        | 
 | ------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
