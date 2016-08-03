@@ -129,7 +129,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 ## Slides and Videos (under construction)
 
 | Topic                     | Speaker |       Slideshare                 |  YouTube                        | 
-|:-------------------------:|:-------:|:--------------------------------:|:-------------------------------:|
+| ------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
 | D1L1 Welcome              | XG      | [Slides][welcome-slides]         |           |
 | D1L2 Classification       | EM      | [Slides][classification-slides]  |   |
 | D1L3 Deep networks        | ES      | [Slides][deep-slides]            |   |
