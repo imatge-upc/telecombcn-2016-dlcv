@@ -141,6 +141,8 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D2L6 Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
 | D3L1 Unsupervised Learning| KM      | [Slides][unsupervised-slides]    | [Video][unsupervised-video]   |
 | D3L4 Object Detection     | AS      | [Slides][object-slides]          | [Video][object-video]   |
+| D3L5 Face Recognition     | ES      | [Slides][face-slides]            | [Video][face-video]   |
+| D3L6 Image retrieval      | EM      | [Slides][retrieval-slides]       | [Video][retrieval-video]   |
 | D4L3 Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
 | D4L6 Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
 
@@ -164,6 +166,10 @@ Deep learning technologies are at the core of the current revolution in artifici
 [unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
 [object-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-object-detection-upc-2016
 [object-video]: https://www.youtube.com/watch?v=VuJu0t4mYKM
+[face-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-face-detection-and-recognition-upc-2016
+[face-video]: https://www.youtube.com/watch?v=uKYoyIwD42Y
+[retrieval-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-image-retrieval-upc-2016
+[retrieval-video]: https://www.youtube.com/watch?v=tsGhPsZiexQ
 
 [language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
 [language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
