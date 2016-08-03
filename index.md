@@ -84,6 +84,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D1L5 Training             | EM      | [Slides][training-slides]        |   |
 | D1L6 Software Frameworks  | KM      | [Slides][frameworks-slides]      | [Video][frameworks-video] |
 | D2L1 Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
+| D2L2 Data Augmentation    | EM      | [Slides][augmentation-slides]    |    |
 | D2L3 Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
 | D2L4 Imagenet Challenge   | XG      | [Slides][imagenet-slides]        |    |
 | D2L5 Transfer & Adaptation| KM      | [Slides][transfer-slides]        | [Video][transfer-video]   |
@@ -113,6 +114,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 [memory-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-memory-usage-and-computational-considerations-upc-2016
 [memory-video]: https://www.youtube.com/watch?v=2vmFBCqsj68
+[augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
 [visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
 [visualization-video]: https://www.youtube.com/watch?v=m7SqRkYm_18
 [imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
