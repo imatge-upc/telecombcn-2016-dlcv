@@ -98,6 +98,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D4L4 Video Analytics      | XG      | [Slides][video-slides]           | [Video][video-video] |
 | D4L5 Medical Imaging      | ES      | [Slides][medical-slides]         | [Video][medical-video] |
 | D4L6 Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
+| D5L Closing               | XG      | [Slides][attention-slides]       |  |
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
 [classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
@@ -137,6 +138,8 @@ Deep learning technologies are at the core of the current revolution in artifici
 [medical-video]: https://www.youtube.com/watch?v=3gzIilFAmmY
 [attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
 [attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
+
+[closing-slides]: 
 
 ## Schedule
 
