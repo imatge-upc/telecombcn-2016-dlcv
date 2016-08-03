@@ -73,59 +73,6 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
-
-## Schedule
-
-| When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
-|:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | [Welcome] XG          | [Memory] KM       | [Unsupervised]  KM   | [Adversarial]  KM  | Project Expo 3            |
-| 3:20-3:40  | [Classification] EM   | [Augmentation] EM  | [Saliency]  ES     | [Segmentation] AS  | Project Expo 4            |
-| 3:40-4:00  | [Deep] ES             | [Visualization] AS | [Optimization]  KM   | [Language] XG       | Project Expo 5            |
-| 4:00-5:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow]JT     | [TensorFlow] JT     | [TensorFlow] JT          | 
-| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | [Closing] 3,4,5              | 
-| 5:00-5:20  | [Backpropagation] ES  | [ImageNet] XG      | [Objects]  AS       |  [Video] XG     | Project Expo 1         |
-| 5:20-5:40  | [Training] EM         | [Transfer] KM      | [Faces]  ES       |  [Medical] ES  | Project Expo 2           |
-| 5:40-6:00  | [Frameworks] KM       | [Recurrent] XG     | [Ranking] EM         |  [Attention] AS     | Break               |
-| 6:00-7:00  | [Project]               | [Project]        | [Project]       | [Project]            | [Closing] 1,2             |
-| 6:00-7:00  | [TensorFlow] JT       | [TensorFlow] JT    | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]  JT         |
-
-[Welcome]: welcome
-[Classification]: classification
-[Deep]: deep
-
-[Tensorflow]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow
-
-[Backpropagation]: backprop
-[Training]: training
-[Frameworks]: frameworks
-
-[Memory]: memory
-[Augmentation]: augmentation
-[Visualization]: visualization
-
-[ImageNet]: imagenet
-[Transfer]: transfer
-[Attention]: attention
-
-[Unsupervised]: unsupervised
-[Ranking]: rankingv
-[Optimization]: optimization
-
-[Saliency]: saliency
-[Objects]: objects
-[Faces]: faces
-
-[Recurrent]: recurrent
-[Adversarial]: adversarial
-[Medical]: medical
-
-[Language]: language
-[Segmentation]: segmentation
-[Video]: video
-
-[Project]: project
-[Closing]: https://github.com/imatge-upc/telecombcn-2016-dlcv/raw/gh-pages/slides/D5P-closing.pdf
-
 ## Slides and Videos (under construction)
 
 | Topic                     | Speaker |       Slideshare                 |  YouTube                        | 
@@ -175,6 +122,60 @@ Deep learning technologies are at the core of the current revolution in artifici
 [language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
 [attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
 [attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
+
+## Schedule
+
+| When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
+|:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
+| 3:00-3:20  | [Welcome]           | [Memory]        | [Unsupervised]     | [Adversarial]    | Project Expo 3            |
+| 3:20-3:40  | [Classification]   | [Augmentation]   | [Saliency]       | [Segmentation]   | Project Expo 4            |
+| 3:40-4:00  | [Deep]              | [Visualization]  | [Optimization]     | [Language]        | Project Expo 5            |
+| 4:00-5:00  | [TensorFlow]        | [TensorFlow]     | [TensorFlow]     | [TensorFlow]      | [TensorFlow]           | 
+| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | [Closing] 3,4,5              | 
+| 5:00-5:20  | [Backpropagation]   | [ImageNet]       | [Objects]         |  [Video]      | Project Expo 1         |
+| 5:20-5:40  | [Training]          | [Transfer]       | [Faces]         |  [Medical]   | Project Expo 2           |
+| 5:40-6:00  | [Frameworks]        | [Recurrent]      | [Ranking]          |  [Attention]      | Break               |
+| 6:00-7:00  | [Project]               | [Project]        | [Project]       | [Project]            | [Closing] 1,2             |
+| 6:00-7:00  | [TensorFlow]        | [TensorFlow]     | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]           |
+
+[Welcome]: welcome
+[Classification]: classification
+[Deep]: deep
+
+[Tensorflow]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow
+
+[Backpropagation]: backprop
+[Training]: training
+[Frameworks]: frameworks
+
+[Memory]: memory
+[Augmentation]: augmentation
+[Visualization]: visualization
+
+[ImageNet]: imagenet
+[Transfer]: transfer
+[Attention]: attention
+
+[Unsupervised]: unsupervised
+[Ranking]: rankingv
+[Optimization]: optimization
+
+[Saliency]: saliency
+[Objects]: objects
+[Faces]: faces
+
+[Recurrent]: recurrent
+[Adversarial]: adversarial
+[Medical]: medical
+
+[Language]: language
+[Segmentation]: segmentation
+[Video]: video
+
+[Project]: project
+[Closing]: https://github.com/imatge-upc/telecombcn-2016-dlcv/raw/gh-pages/slides/D5P-closing.pdf
+
+
 
 
 ## Practical
