@@ -87,6 +87,8 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D2L3 Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
 | D2L6 Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
 | D3L1 Unsupervised Learning| KM      | [Slides][unsupervised-slides]    | [Video][unsupervised-video]   |
+| D3L2 Saliency Prediction  | ES      | [Slides][saliency-slides]    |    |
+| D3L3 Optimization         | KM      | [Slides][optimization-slides]    |    |
 | D3L4 Object Detection     | AS      | [Slides][object-slides]          | [Video][object-video]   |
 | D3L5 Face Recognition     | ES      | [Slides][face-slides]            | [Video][face-video]   |
 | D3L6 Image retrieval      | EM      | [Slides][retrieval-slides]       | [Video][retrieval-video]   |
@@ -111,6 +113,8 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 [unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
 [unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
+[saliency-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-saliency-prediction-upc-2016
+[optimization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-optimization-upc-2016
 [object-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-object-detection-upc-2016
 [object-video]: https://www.youtube.com/watch?v=VuJu0t4mYKM
 [face-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-face-detection-and-recognition-upc-2016
