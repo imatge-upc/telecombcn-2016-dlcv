@@ -128,19 +128,20 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Slides and Videos (under construction)
 
-| Topic                | Speaker |       Slideshare                 |  YouTube                        | 
-|:--------------------:|:-------:|:--------------------------------:|:-------------------------------:|
-| Welcome              | XG      | [Slides][welcome-slides]         |           |
-| Classification       | EM      | [Slides][classification-slides]  |   |
-| Deep networks        | ES      | [Slides][deep-slides]            |   |
-| Backward Propagation | ES      | [Slides][backprop-slides]        | [Video][backprop-video]  |
-| Training             | EM      | [Slides][training-slides]        |   |
-| Software Frameworks  | KM      | [Slides][frameworks-slides]      | [Video][frameworks-video] |
-| Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
-| Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
-| Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
-| Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
-| Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
+| Topic                     | Speaker |       Slideshare                 |  YouTube                        | 
+|:-------------------------:|:-------:|:--------------------------------:|:-------------------------------:|
+| D1L1 Welcome              | XG      | [Slides][welcome-slides]         |           |
+| D1L2 Classification       | EM      | [Slides][classification-slides]  |   |
+| D1L3 Deep networks        | ES      | [Slides][deep-slides]            |   |
+| D1L4 Backward Propagation | ES      | [Slides][backprop-slides]        | [Video][backprop-video]  |
+| D1L5 Training             | EM      | [Slides][training-slides]        |   |
+| D1L6 Software Frameworks  | KM      | [Slides][frameworks-slides]      | [Video][frameworks-video] |
+| D2L1 Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
+| D2L3 Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
+| D2L6 Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
+| D3L1 Unsupervised Learning| KM      | [Slides][unsupervised-slides]    | [Video][unsupervised-video]   |
+| D4L3 Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
+| D4L6 Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
 [classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
@@ -157,6 +158,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 [visualization-video]: https://www.youtube.com/watch?v=m7SqRkYm_18
 [recurrent-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-recurrent-neural-networks-upc-2016
 [recurrent-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
+
+[unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
+[unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
 
 [language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
 [language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
