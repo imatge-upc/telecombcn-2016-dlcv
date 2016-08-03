@@ -85,6 +85,8 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D1L6 Software Frameworks  | KM      | [Slides][frameworks-slides]      | [Video][frameworks-video] |
 | D2L1 Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
 | D2L3 Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
+| D2L4 Imagenet Challenge   | XG      | [Slides][imagenet-slides]        |    |
+| D2L5 Transfer & Adaptation| KM      | [Slides][transfer-slides]        | [Video][transfer-video]   |
 | D2L6 Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
 | D3L1 Unsupervised Learning| KM      | [Slides][unsupervised-slides]    | [Video][unsupervised-video]   |
 | D3L2 Saliency Prediction  | ES      | [Slides][saliency-slides]        |    |
@@ -113,6 +115,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 [memory-video]: https://www.youtube.com/watch?v=2vmFBCqsj68
 [visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
 [visualization-video]: https://www.youtube.com/watch?v=m7SqRkYm_18
+[imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
+[transfer-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-transfer-learning-and-domain-adaptation-upc-2016
+[transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
 [recurrent-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-recurrent-neural-networks-upc-2016
 [recurrent-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
 
