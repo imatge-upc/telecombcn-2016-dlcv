@@ -87,7 +87,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D2L3 Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
 | D2L6 Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
 | D3L1 Unsupervised Learning| KM      | [Slides][unsupervised-slides]    | [Video][unsupervised-video]   |
-| D3L2 Saliency Prediction  | ES      | [Slides][saliency-slides]    |    |
+| D3L2 Saliency Prediction  | ES      | [Slides][saliency-slides]        |    |
 | D3L3 Optimization         | KM      | [Slides][optimization-slides]    |    |
 | D3L4 Object Detection     | AS      | [Slides][object-slides]          | [Video][object-video]   |
 | D3L5 Face Recognition     | ES      | [Slides][face-slides]            | [Video][face-video]   |
@@ -98,7 +98,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D4L4 Video Analytics      | XG      | [Slides][video-slides]           | [Video][video-video] |
 | D4L5 Medical Imaging      | ES      | [Slides][medical-slides]         | [Video][medical-video] |
 | D4L6 Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
-| D5L Closing               | XG      | [Slides][attention-slides]       |  |
+| D5L Closing               | XG      | [Slides][closing-slides]         |  |
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
 [classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
@@ -139,7 +139,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
 [attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
 
-[closing-slides]: 
+[closing-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-closing-upc-2016
 
 ## Schedule
 
