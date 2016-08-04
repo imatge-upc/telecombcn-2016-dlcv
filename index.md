@@ -73,7 +73,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
-## Slides and Videos 
+## Lecture Slides and Videos
 
 | Topic                     | Speaker |       Slideshare                 |  YouTube                        | 
 | ------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
@@ -147,6 +147,28 @@ Deep learning technologies are at the core of the current revolution in artifici
 [attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
 
 [closing-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-closing-upc-2016
+
+
+## Hands on TensorFlow
+
+The seminar includes five practical sessions on [TensorFlow](https://www.tensorflow.org/), the Open Source Software Library for Machine Intelligence developed by Google. These sessions were taught by [Professor Jordi Torres](http://www.jorditorres.org/), with the teaching assistance of [Maurici Yagües](https://www.bsc.es/about-bsc/staff-directory/yagues-maurici). Both of them are part of the [Barcelona Supercomputing Center (BSC)](http://www.bsc.es/).
+
+| Topic                     | Speaker |       Slideshare                 |  
+| ------------------------- |:-------:|:--------------------------------:|
+| D1T Linear regressor      | JT      | [Slides][tensorflow1-slides]         | 
+| D2T Clustering            | JT      | [Slides][tensorflow2-slides]         | 
+| D3T Neuron & Tensorboard  | JT      | [Slides][tensorflow3-slides]         | 
+| D4T CNN & SLIM            | JT      | [Slides][tensorflow4-slides]         | 
+| D5T RNN                   | JT      | [Slides][tensorflow5-slides]         | 
+
+The full course with code snippets is available in [this repo](https://github.com/jorditorresBCN/FirstContactWithTensorFlow).
+
+[tensorflow1-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day1.pdf
+[tensorflow2-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day2.pdf
+[tensorflow3-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day3.pdf
+[tensorflow4-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day4.pdf
+[tensorflow5-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day5.pdf
+
 
 ## Schedule
 
