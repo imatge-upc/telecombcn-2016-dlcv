@@ -35,3 +35,5 @@ hide: true
 * Antonio Torralba et al, [DrawNet online demo](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html).
 
 * Andrej Karpathy et al, [ConvNetJS, deep learning in your browser](http://cs.stanford.edu/people/karpathy/convnetjs/).
+
+*  Montavon, Grégoire, Sebastian Bach, Alexander Binder, Wojciech Samek, and Klaus-Robert Müller. "Explaining nonlinear classification decisions with deep taylor decomposition." arXiv preprint arXiv:1512.02479 (2015). [Demo](http://www.heatmapping.org/deeptaylor/tutorial/index.html)
