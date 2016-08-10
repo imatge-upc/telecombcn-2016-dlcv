@@ -55,3 +55,5 @@ hide: true
 * Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu, ["Conditional Image Generation with PixelCNN Decoders"](http://arxiv.org/abs/1606.05328), arXiv preprint arXiv:1606.05328 (2016).
 
 * O'Shea Research, [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/). July 2016.
+
+* Russ	Salakhutdinov, [Learning	Deep	Generative Models](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf). Carnegie Mellon University, 2016.
