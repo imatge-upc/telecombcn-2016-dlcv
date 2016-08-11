@@ -16,9 +16,16 @@ hide: true
 
 * [Slides](slides/D4L1-adversarial.pdf)
 
-## Video Lecture
+## Videos
 
-(to be added)
+* Sirajology, ["Generative Adversarial Nets"](https://www.youtube.com/watch?v=deyOX6Mt_As). Fresh Machine Learning, July 2016. 
+
+## Tutorials
+
+* ANDREJ KARPATHY, PIETER ABBEEL, GREG BROCKMAN, PETER CHEN, VICKI CHEUNG, ROCKY DUAN, IAN GOODFELLOW, DURK KINGMA, JONATHAN HO, REIN HOUTHOOFT, TIM SALIMANS, JOHN SCHULMAN, ILYA SUTSKEVER, AND WOJCIECH ZAREMBA, ["Generative models"](https://openai.com/blog/generative-models/). OpenAI 2016.
+
+* O'Shea Research, [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/). July 2016.
+
 
 ## Related Work & Resources
 
@@ -48,12 +55,8 @@ hide: true
 
 * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell and Alexei A. Efros. [Context Encoders: Feature Learning by Inpainting.](http://www.cs.berkeley.edu/~pathak/context_encoder/)  In CVPR 2016.
 
-* ANDREJ KARPATHY, PIETER ABBEEL, GREG BROCKMAN, PETER CHEN, VICKI CHEUNG, ROCKY DUAN, IAN GOODFELLOW, DURK KINGMA, JONATHAN HO, REIN HOUTHOOFT, TIM SALIMANS, JOHN SCHULMAN, ILYA SUTSKEVER, AND WOJCIECH ZAREMBA, ["Generative models"](https://openai.com/blog/generative-models/). OpenAI 2016.
-
 * Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) arXiv preprint arXiv:1605.05396 (2016).
 
 * Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu, ["Conditional Image Generation with PixelCNN Decoders"](http://arxiv.org/abs/1606.05328), arXiv preprint arXiv:1606.05328 (2016).
-
-* O'Shea Research, [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/). July 2016.
 
 * Russ	Salakhutdinov, [Learning	Deep	Generative Models](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf). Carnegie Mellon University, 2016.
