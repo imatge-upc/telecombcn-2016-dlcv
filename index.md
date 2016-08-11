@@ -2,7 +2,7 @@
 layout: page
 title:
 permalink: /
-feature-img: "img/upc_heading.jpg"
+feature-img: "img/heading_950x200.png"
 hide: true
 ---
 
