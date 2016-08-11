@@ -153,8 +153,8 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 The seminar includes five practical sessions on [TensorFlow](https://www.tensorflow.org/), the Open Source Software Library for Machine Intelligence developed by Google. These sessions were taught by [Professor Jordi Torres](http://www.jorditorres.org/), with the teaching assistance of [Maurici Yagües](https://www.bsc.es/about-bsc/staff-directory/yagues-maurici). Both of them are part of the [Barcelona Supercomputing Center (BSC)](http://www.bsc.es/).
 
-| Topic                     |       Slideshare                     |  
-| -------------------------:|:------------------------------------:|
+| Topic                     |                                      |  
+| ------------------------- |:------------------------------------:|
 | D1T Linear regressor      | [Slides][tensorflow1-slides]         | 
 | D2T Clustering            | [Slides][tensorflow2-slides]         | 
 | D3T Neuron & Tensorboard  | [Slides][tensorflow3-slides]         | 
