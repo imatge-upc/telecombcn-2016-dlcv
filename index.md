@@ -153,13 +153,13 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 The seminar includes five practical sessions on [TensorFlow](https://www.tensorflow.org/), the Open Source Software Library for Machine Intelligence developed by Google. These sessions were taught by [Professor Jordi Torres](http://www.jorditorres.org/), with the teaching assistance of [Maurici Yagües](https://www.bsc.es/about-bsc/staff-directory/yagues-maurici). Both of them are part of the [Barcelona Supercomputing Center (BSC)](http://www.bsc.es/).
 
-| Topic                     | Speaker |       Slideshare                     |  
-| ------------------------- |:-------:|:------------------------------------:|
-| D1T Linear regressor      | JT      | [Slides][tensorflow1-slides]         | 
-| D2T Clustering            | JT      | [Slides][tensorflow2-slides]         | 
-| D3T Neuron & Tensorboard  | JT      | [Slides][tensorflow3-slides]         | 
-| D4T CNN & SLIM            | JT      | [Slides][tensorflow4-slides]         | 
-| D5T RNN                   | JT      | [Slides][tensorflow5-slides]         | 
+| Topic                     |       Slideshare                     |  
+| -------------------------:|:------------------------------------:|
+| D1T Linear regressor      | [Slides][tensorflow1-slides]         | 
+| D2T Clustering            | [Slides][tensorflow2-slides]         | 
+| D3T Neuron & Tensorboard  | [Slides][tensorflow3-slides]         | 
+| D4T CNN & SLIM            | [Slides][tensorflow4-slides]         | 
+| D5T RNN                   | [Slides][tensorflow5-slides]         | 
 
 The full course with code snippets is available in [this repo](https://github.com/jorditorresBCN/FirstContactWithTensorFlow).
 
@@ -173,13 +173,13 @@ The full course with code snippets is available in [this repo](https://github.co
 
 Master students together with some bachelor students organized in teams of five members who solved four directed tasks and developed an open project. The duration of the project corresponds to the single week of the course. Their slides and source code is available from their repos. If you are interested in hiring or contacting the students, some of them have provided their LinkedIn profiles from their project pages.
 
-| Team        | Project page        |     Slides                  |  Repo                     |  
-| ----------- |:-------------------:|:---------------------------:|:-------------------------:|
-| Team 1      |  [Web][team1-web]   | [Slides][team1-slides]   | [Repo][team1-repo] |
-| Team 2      |  -                  | [Slides][team2-slides]   | [Repo][team2-repo] |
-| Team 3      |  -                  | [Slides][team3-slides]   | [Repo][team3-repo] |
-| Team 4      |  -                  | [Slides][team4-slides]   | [Repo][team4-repo] |
-| Team 5      |  -                  | [Slides][team5-slides]   | [Repo][team5-repo] |
+| Team        | Project                              |         Page        |     Slides                  |  Repo                     |
+| ----------- |:------------------------------------:|:-------------------:|:---------------------------:|:-------------------------:|
+| Team 1      | Character autorotation + Autoencoders | [Web][team1-web]   | [Slides][team1-slides]   | [Repo][team1-repo] |
+| Team 2      | Neural Style                          | -                  | [Slides][team2-slides]   | [Repo][team2-repo] |
+| Team 3      | Generative Adversarial Network       | -                     | [Slides][team3-slides]   | [Repo][team3-repo] |
+| Team 4      | Multi-layer Neural Style             | -                  | [Slides][team4-slides]   | [Repo][team4-repo] |
+| Team 5      | Deep Dream                           | -                  | [Slides][team5-slides]   | [Repo][team5-repo] |
 
 [team1-web]: https://telecombcn-dl.github.io/dlcv01/
 [team1-slides]: https://github.com/telecombcn-dl/dlcv01/blob/master/DLCV%2001%20Project%20Slides.pdf
@@ -194,7 +194,7 @@ Master students together with some bachelor students organized in teams of five 
 [team4-slides]: https://docs.google.com/presentation/d/1daS4M7e5Grk6Ytqk2kdapNonDVCPKwiv5HxscIA8UQI/edit?usp=sharing
 [team4-repo]: https://github.com/telecombcn-dl/dlcv04
 
-[team5-slides]: https://docs.google.com/presentation/d/1mflcMsA4rgJHat2hwqVu6zJjPiipFmea3BJUwwSxVtI/edit#slide=id.g14a9129f29_0_0
+[team5-slides]: https://github.com/telecombcn-dl/dlcv05/blob/master/Project%20Presentation.pdf
 [team5-repo]: https://github.com/telecombcn-dl/dlcv05
 
 
