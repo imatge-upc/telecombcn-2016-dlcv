@@ -61,3 +61,4 @@ hide: true
 
 * Ben Bolte, [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html#recurrent-neural-networks). April 2016.
 
+* Tai, Kai Sheng, Richard Socher, and Christopher D. Manning. ["Improved semantic representations from tree-structured long short-term memory networks."](http://arxiv.org/abs/1503.00075) ACL 2015. [[code](https://github.com/stanfordnlp/treelstm)]
