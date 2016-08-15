@@ -42,6 +42,11 @@ hide: true
 
 * Feichtenhofer, Christoph, Axel Pinz, and Andrew Zisserman. ["Convolutional Two-Stream Network Fusion for Video Action Recognition."](http://arxiv.org/abs/1604.06573) CVPR 2016.
 
+* Limin Wang, Yuanjun Xiong, Zhe Wang, Yu Qiao, Dahua Lin, Xiaoou Tang, and Luc Van Gool, [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](http://arxiv.org/abs/1608.00859). ECCV 2016, Amsterdam, The Netherlands. [[source code](https://github.com/yjxiong/temporal-segment-networks)]
+
+
+## Other resources
+
 * Xavier Giro-i-Nieto, [Deep Learning for Computer Vision: Video Analytics](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016). Master in Multimedia Creation. URL La Salle Barcelona. May 2016.
 
 ## Related work at UPC
