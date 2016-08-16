@@ -30,6 +30,8 @@ hide: true
 
 * Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba. [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/">Learning Deep Features for Discriminative Localization), CVPR 2016. ([Slides by Marc Bolaños](https://docs.google.com/presentation/d/1CItqjtAYa_OKVLs5BqqCzM8dEbCwkwit4Ooem_WJpY0/edit#slide=id.p))
 
+* Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, Klaus-Robert Muller, ["Deep Taylor Decomposition of Neural Networks"](https://icmlviz.github.io/assets/papers/13.pdf). ICML 2016 Visualization Workshop. [[project page](http://www.heatmapping.org/deeptaylor/index.html)]
+
 * Jianming Zhang, Zhe Lin, Jonathan Brandt, Xiaohui Shen, Stan Sclaroff, ["Top-down Neural Attention by Excitation Backprop"](https://arxiv.org/abs/1608.00507). ECCV 2016. [[project](https://github.com/jimmie33/Caffe-ExcitationBP)]
 
 * Antonio Torralba et al, [DrawNet online demo](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html).
