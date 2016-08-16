@@ -26,6 +26,8 @@ hide: true
 
 * O'Shea Research, [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/). July 2016.
 
+* Brandon Amos, ["Image Completion with Deep Learning in TensorFlow"](http://bamos.github.io/2016/08/09/deep-completion/). 2016.
+
 
 ## Related Work & Resources
 
