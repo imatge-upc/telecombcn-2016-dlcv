@@ -27,3 +27,5 @@ hide: true
 ## Related Work & Resources
 
 * Jaderberg, M., Simonyan, K., & Zisserman, A. (2015). Spatial transformer networks. In Advances in Neural Information Processing Systems (pp. 2017-2025).
+
+* Ba, Jimmy, Volodymyr Mnih, and Koray Kavukcuoglu. ["Multiple object recognition with visual attention."](http://arxiv.org/abs/1412.7755) ICLR 2015.
