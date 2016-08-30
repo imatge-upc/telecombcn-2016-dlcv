@@ -267,7 +267,7 @@ Master students together with some bachelor students organized in teams of five 
 
 Registration is **sold out** for this edition of the seminar. The 30 available seats were covered by UPC TelecomBCN students.
 
-We greatly appreciate the interest of several other students who could not register. We are planning a new edition of the seminar for January 2017. You can receive any update regarding this new edition by following [this issue](https://github.com/imatge-upc/telecombcn-2016-dlcv/issues/2).
+We greatly appreciate the interest of several other students who could not register. We are planning a new edition of this seminar for June-July 2017. A new seminar on [Deep Learning for Speech and Language](https://telecombcn-dl.github.io/2017-dlsl/) is also planned for January 2017.
 
 You are also encouraged to share your questions and solution in the [public issues](https://github.com/imatge-upc/dlcv-2016/issues) section for future reference and quality improvement of the course.
 
