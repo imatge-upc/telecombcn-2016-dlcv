@@ -44,6 +44,7 @@ hide: true
 
 * Limin Wang, Yuanjun Xiong, Zhe Wang, Yu Qiao, Dahua Lin, Xiaoou Tang, and Luc Van Gool, [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](http://arxiv.org/abs/1608.00859). ECCV 2016, Amsterdam, The Netherlands. [[source code](https://github.com/yjxiong/temporal-segment-networks)]
 
+* Mathieu, Michael, Camille Couprie, and Yann LeCun. "Deep multi-scale video prediction beyond mean square error." ICLR 2016. [Torch](https://github.com/coupriec/VideoPredictionICLR2016) [TensorFlow](https://github.com/dyelax/Adversarial_Video_Generation)
 
 ## Other resources
 
