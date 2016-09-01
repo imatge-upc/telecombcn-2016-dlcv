@@ -3,7 +3,7 @@ baseurl: "/telecombcn-2016-dlcv" # the subpath of your site, e.g. /blog/
 url: "http://imatge-upc.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Deep Learning for Computer Vision Barcelona
   avatar:
