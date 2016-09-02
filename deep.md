@@ -27,3 +27,5 @@ hide: true
 * Vincent Dumoulin, Francesco Visin, ["A guide to convolution arithmetic for deep learning"](http://arxiv.org/abs/1603.07285). arXiv:1603.07285 (2016)
 
 * He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. ["Delving deep into rectifiers: Surpassing human-level performance on imagenet classification."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/He_Delving_Deep_into_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 1026-1034. 2015.
+
+* Mallat, Stéphane. ["Understanding deep convolutional networks."](http://rsta.royalsocietypublishing.org/content/374/2065/20150203.abstract) Phil. Trans. R. Soc. A 374, no. 2065 (2016): 20150203.
