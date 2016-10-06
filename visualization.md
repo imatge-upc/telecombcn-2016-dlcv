@@ -32,7 +32,7 @@ hide: true
 
 * Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, Klaus-Robert Muller, ["Deep Taylor Decomposition of Neural Networks"](https://icmlviz.github.io/assets/papers/13.pdf). ICML 2016 Visualization Workshop. [[project page](http://www.heatmapping.org/deeptaylor/index.html)]
 
-* Jianming Zhang, Zhe Lin, Jonathan Brandt, Xiaohui Shen, Stan Sclaroff, ["Top-down Neural Attention by Excitation Backprop"](https://arxiv.org/abs/1608.00507). ECCV 2016. [[project](https://github.com/jimmie33/Caffe-ExcitationBP)]
+* Jianming Zhang, Zhe Lin, Jonathan Brandt, Xiaohui Shen, Stan Sclaroff, ["Top-down Neural Attention by Excitation Backprop"](http://cs-people.bu.edu/jmzhang/excitationbp.html). ECCV 2016. [[arxiv](https://arxiv.org/abs/1608.00507)][[code](https://github.com/jimmie33/Caffe-ExcitationBP)]
 
 * Antonio Torralba et al, [DrawNet online demo](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html).
 
