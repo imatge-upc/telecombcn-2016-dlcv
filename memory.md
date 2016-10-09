@@ -24,4 +24,8 @@ model size, memory use, computational requirements, gradient splitting
 
 (to be added)
 
+## Videos
+
+* NVidia, (Mythbusters demo CPU vs GPU)[https://www.youtube.com/watch?v=-P28LKWTzrI&sns=tw].
+
 
