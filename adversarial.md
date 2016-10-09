@@ -64,3 +64,7 @@ hide: true
 * Russ	Salakhutdinov, [Learning	Deep	Generative Models](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf). Carnegie Mellon University, 2016.
 
 * [NIPS 2016 Workshop on Adversarial Training](https://sites.google.com/site/nips2016adversarial/)
+
+## Software
+
+* Ian Goodfewllow, ["Cleverhans, A library for benchmarking vulnerability to adversarial examples"](https://github.com/openai/cleverhans)
