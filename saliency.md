@@ -37,3 +37,9 @@ hide: true
 * Huang, Xun, Chengyao Shen, Xavier Boix, and Qi Zhao. ["SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Huang_SALICON_Reducing_the_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 262-270. 2015. [[Caffe](https://github.com/CLT29/OpenSALICON)]
 
 * Kruthiventi, Srinivas SS, Kumar Ayush, and R. Venkatesh Babu. ["DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations."](http://arxiv.org/abs/1510.02927) In Proceedings of the IEEE International Conference on Computer Vision. 2016.
+
+## Additional material
+
+* Naila Murray, ["Deep networks for saliency map prediction"](http://saliency.mit.edu/ECCVTutorial/ECCV2016_tutorial_Naila.pdf). ECCV 2016 Tutorial.
+
+* 
