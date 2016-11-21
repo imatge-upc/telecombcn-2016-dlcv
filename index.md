@@ -284,6 +284,7 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 ## Related courses
 
 * Fei-Fei Li, Andrej Karpathy, Justin Johnson, ["CS231n: Convolutional Neural Networks for Visual Recognition"](http://cs231n.stanford.edu/). Stanford University, Spring 2016.
+* Sanja Fidler, ["Deep Learning in Computer Vision"](http://www.cs.toronto.edu/~fidler/teaching/2015/CSC2523.html). University of Toronto, Winter 2016.
 * Hugo Larochelle, ["Neural Networks"](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html). Université de Sheerbroke.
 * Joan Bruna, ["Stats212b: Topics on Deep Learning"](https://github.com/joanbruna/stat212b). Berkeley University. Spring 2016.
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
