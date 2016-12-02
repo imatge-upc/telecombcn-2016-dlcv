@@ -113,10 +113,10 @@ Deep learning technologies are at the core of the current revolution in artifici
 [frameworks-video]: https://www.youtube.com/watch?v=_VODQgCOBL8
 
 [memory-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-memory-usage-and-computational-considerations-upc-2016
-[memory-video]: https://www.youtube.com/watch?v=2vmFBCqsj68
+[memory-video]: https://youtu.be/Hqtg7fznlnM
 [augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
 [visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
-[visualization-video]: https://www.youtube.com/watch?v=m7SqRkYm_18
+[visualization-video]: https://youtu.be/YQvTxkPV8LQ
 [imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
 [transfer-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-transfer-learning-and-domain-adaptation-upc-2016
 [transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
